@@ -1,0 +1,3600 @@
+A larger sample size generally leads to:
+A) A higher p-value
+B) More accurate population estimates
+C) More Type I errors
+D) No impact on statistical inference
+ANSWER: B
+A model that predicts all cases as negative will have a recall of:
+A) 0
+B) 1
+C) $$50\%$$
+D) Undefined
+ANSWER: A
+A time series that fluctuates around a constant mean with no trend or seasonality is called a:
+A) Stationary time series
+B) Non-stationary time series
+C) Seasonal time series
+D) Deterministic time series
+ANSWER: A
+A Type I error occurs when:
+A) A true null hypothesis is rejected
+B) A false null hypothesis is accepted
+C) A correct conclusion is drawn
+D) The p-value is high
+ANSWER: A
+Compared to Hadoop MapReduce, Apache Spark is:
+A) Faster due to in-memory computation
+B) Slower and inefficient
+C) Used only for batch processing
+D) Less scalable
+ANSWER: A
+Exponential smoothing is primarily used for:
+A) Forecasting time series data
+B) Clustering large datasets
+C) Reducing data dimensionality
+D) Identifying correlation between variables
+ANSWER: A
+GPT models are primarily used for:
+A) Image classification
+B) Generating human-like text
+C) Speech recognition
+D) Text summarization only
+ANSWER: B
+Hadoop is primarily used for:
+A) Cloud computing
+B) Distributed storage and processing of large datasets
+C) Real-time analytics only
+D) Running SQL queries on structured data
+ANSWER: B
+Hadoop is primarily written in which programming language?
+A) Python
+B) Java
+C) R
+D) C++
+ANSWER: B
+How are new cluster centers updated in K-Means?
+A) Randomly assigned again
+B) Using the median of all data points in the cluster
+C) Using the mean of all data points in the cluster
+D) By selecting the point closest to the centroid
+ANSWER: C
+How do you access the value associated with a key in a dictionary?
+A) dict[key]
+B) dict.get(key)
+C) Both A and B
+D) None of the above
+ANSWER: C
+How do you call a function named greet in Python?
+A) greet()
+B) call greet
+C) run greet()
+D) execute(greet)
+ANSWER: A
+How do you convert a string "100" into an integer in Python?
+A) toInt("100")
+B) convert("100", int)
+C) int("100")
+D) integer("100")
+ANSWER: C
+How do you create a NumPy array?
+A) np.array([1, 2, 3])
+B) np.list([1, 2, 3])
+C) numpy.array(1,2,3)
+D) new array([1, 2, 3])
+ANSWER: A
+How do you define a function with two parameters in Python?
+A) def my_function(a, b):
+B) function my_function(a, b):
+C) define my_function(a, b):
+D) my_function = function(a, b):
+ANSWER: A
+How do you drop a column from a DataFrame?
+A) df.remove(column_name)
+B) df.drop(column_name, axis=1)
+C) df.delete(column_name)
+D) df.clear(column_name)
+ANSWER: B
+How do you import a module in Python?
+A) import module_name
+B) include module_name
+C) use module_name
+D) load module_name
+ANSWER: A
+How do you import NumPy in Python?
+A) import numpy as np
+B) import np as numpy
+C) import numpy()
+D) use numpy
+ANSWER: A
+How do you import Pandas?
+A) import pandas as pd
+B) import pd as pandas
+C) import pandas()
+D) use pandas
+ANSWER: A
+How do you import Seaborn?
+A) import seaborn as sns
+B) import seaborn as sb
+C) import sns as seaborn
+D) import seaborn()
+ANSWER: A
+How do you save a DataFrame to an Excel file?
+A) df.to_excel('file.xlsx')
+B) df.save_excel('file.xlsx')
+C) df.write_excel('file.xlsx')
+D) df.export_excel('file.xlsx')
+ANSWER: A
+How does a Random Forest improve classification performance?
+A) By using a single deep Decision Tree
+B) By averaging the predictions of multiple Decision Trees
+C) By using a clustering algorithm before classification
+D) By using PCA before building the model
+ANSWER: B
+How does data augmentation help CNN models?
+A) It artificially increases the training data size
+B) It decreases the number of training examples
+C) It simplifies the convolution process
+D) It removes irrelevant image features
+ANSWER: A
+If a dataset has an even number of observations, how is the median calculated?
+A) The middle value
+B) The sum of all values divided by the number of values
+C) The average of the two middle values
+D) The mode of the dataset
+ANSWER: C
+If a model has high precision but low recall, what does it mean?
+A) The model predicts too many false positives
+B) The model predicts too many false negatives
+C) The model has a balanced accuracy
+D) The model performs well in all cases
+ANSWER: B
+If all values in a dataset are identical, what is the standard deviation?
+A) 0
+B) 1
+C) Equal to the mean
+D) Undefined
+ANSWER: A
+If an event has a probability of 1, what does this mean?
+A) The event is impossible
+B) The event is certain to happen
+C) The event has a 50% chance of occurring
+D) The event has a 10% chance of occurring
+ANSWER: B
+If P(A) = 0.3 and P(B) = 0.5, and A and B are independent, what is P(A and B)?
+A) 0.8
+B) 0.15
+C) 0.6
+D) 0.3
+ANSWER: B
+If the p-value is less than 0.05, what should be done?
+A) Accept the null hypothesis
+B) Reject the null hypothesis
+C) Redo the test
+D) Increase the sample size
+ANSWER: B
+If two events cannot occur together, they are called:
+A) Independent events
+B) Mutually exclusive events
+C) Dependent events
+D) Complementary events
+ANSWER: B
+In a CNN, what is the primary function of a convolutional layer?
+A) To apply filters to input data and extract features
+B) To fully connect neurons across layers
+C) To convert images into text format
+D) To store weight values
+ANSWER: A
+In a confusion matrix, false negatives represent:
+A) Incorrectly classified positive instances
+B) Incorrectly classified negative instances
+C) Correctly classified positive instances
+D) Correctly classified negative instances
+ANSWER: A
+In a Decision Tree, what is the purpose of the "root node"?
+A) It represents the final decision
+B) It is the first node where the dataset is split
+C) It stores all the leaf nodes
+D) It contains only categorical data
+ANSWER: B
+In a fully connected neural network, each neuron in one layer is connected to:
+A) Only one neuron in the next layer
+B) Every neuron in the next layer
+C) The neuron with the highest activation in the previous layer
+D) The output layer only
+ANSWER: B
+In a time series plot, a long-term upward or downward movement is called:
+A) Trend
+B) Seasonality
+C) Irregularity
+D) Cycle
+ANSWER: A
+In an ARIMA(p,d,q) model, what does "d" represent?
+A) Number of autoregressive terms
+B) Number of moving average terms
+C) Degree of differencing needed to make the series stationary
+D) Length of seasonality
+ANSWER: C
+In K-Means clustering, what does "K" represent?
+A) The number of features
+B) The number of data points
+C) The number of clusters
+D) The number of iterations
+ANSWER: C
+In Keras, which method is used to add layers to a neural network?
+A) model.connect()
+B) model.append()
+C) model.add()
+D) model.insert()
+ANSWER: C
+In Logistic Regression, what function is used to transform predictions into probabilities?
+A) ReLU function
+B) Softmax function
+C) Sigmoid function
+D) Linear function
+ANSWER: C
+In NLP, what is fine-tuning?
+A) Adjusting a pre-trained model on a specific task
+B) Training a model from scratch
+C) Removing stopwords from text
+D) Reducing the dataset size
+ANSWER: A
+In sentiment analysis, a negative sentiment score means:
+A) The text has a negative opinion or emotion
+B) The text is not related to NLP
+C) The text has no meaning
+D) The text contains only stopwords
+ANSWER: A
+In sentiment analysis, a neutral sentiment means:
+A) The text is neither positive nor negative
+B) The text contains no words
+C) The text has been misclassified
+D) The text is highly positive
+ANSWER: A
+In the equation of a simple linear regression model, y = mx + b, what does m represent?
+A) The intercept
+B) The slope of the line
+C) The dependent variable
+D) The input feature
+ANSWER: B
+In tokenization, breaking a sentence into words is called:
+A) Sentence tokenization
+B) Word tokenization
+C) Character tokenization
+D) N-gram tokenization
+ANSWER: B
+In which type of Machine Learning does the model learn from labeled data?
+A) Supervised Learning
+B) Unsupervised Learning
+C) Reinforcement Learning
+D) Semi-Supervised Learning
+ANSWER: A
+Logistic Regression is primarily used for:
+A) Regression tasks
+B) Classification tasks
+C) Clustering tasks
+D) Dimensionality reduction
+ANSWER: B
+Moving averages are used in time series analysis to:
+A) Identify long-term trends and smooth fluctuations
+B) Increase the volatility of data
+C) Remove seasonality effects permanently
+D) Predict future stock market prices with 100% accuracy
+ANSWER: A
+PySpark uses which programming language?
+A) Python
+B) Java
+C) Scala
+D) C++
+ANSWER: A
+Stemming and lemmatization are used to:
+A) Translate text into another language
+B) Convert words to their root form
+C) Detect sentiment in a text
+D) Extract named entities from text
+ANSWER: B
+The Holt-Winters method is useful for time series data that contains:
+A) Only random fluctuations
+B) Trend and seasonality
+C) No patterns at all
+D) Outliers only
+ANSWER: B
+The main advantage of word embeddings over one-hot encoding is:
+A) One-hot encoding is faster
+B) Word embeddings capture word relationships and meaning
+C) One-hot encoding uses less memory
+D) Word embeddings do not require training
+ANSWER: B
+The main difference between Simple Moving Average (SMA) and Weighted Moving Average (WMA) is:
+A) WMA gives more weight to recent data points
+B) SMA is always more accurate
+C) WMA assigns equal weight to all data points
+D) SMA is computationally more complex than WMA
+ANSWER: A
+The mean and standard deviation fully define which probability distribution?
+A) Binomial distribution
+B) Poisson distribution
+C) Normal distribution
+D) Geometric distribution
+ANSWER: C
+The normal distribution is:
+A) Skewed to the right
+B) Skewed to the left
+C) Symmetrical
+D) A uniform distribution
+ANSWER: C
+The sigmoid activation function outputs values in the range:
+A) $$(-∞, ∞)$$
+B) $$(0,1)$$
+C) $$(-1,1)$$
+D) $$(0,∞)$$
+ANSWER: B
+The Simple Moving Average (SMA) of a time series is calculated by:
+A) Taking the cumulative sum of all data points
+B) Averaging a fixed number of past data points
+C) Finding the weighted average of data points
+D) Using exponential smoothing
+ANSWER: B
+Transformers use self-attention to:
+A) Focus on important parts of input text
+B) Ignore all stopwords in a sentence
+C) Remove punctuation from text
+D) Generate random embeddings
+ANSWER: A
+What are the 4 Vs of Big Data?
+A) Volume, Velocity, Variety, Veracity
+B) Virtualization, Volume, Veracity, Value
+C) Value, Variety, Visualization, Verification
+D) Versioning, Velocity, Value, Variance
+ANSWER: A
+What data type is used for storing a sequence of characters in Python?
+A) List
+B) Integer
+C) String
+D) Boolean
+ANSWER: C
+What distance metric is commonly used in K-Means clustering?
+A) Cosine similarity
+B) Manhattan distance
+C) Euclidean distance
+D) Pearson correlation
+ANSWER: C
+What does a 95% confidence interval mean?
+A) The sample mean is exactly 95% correct
+B) The population mean is within the interval 95% of the time
+C) The hypothesis test is always correct
+D) The sample data contains 95% of the population
+ANSWER: B
+What does a box plot help to identify?
+A) Outliers
+B) Mean and median
+C) Quartiles
+D) All of the above
+ANSWER: D
+What does a high standard deviation indicate?
+A) Data points are close to the mean
+B) Data points are spread out from the mean
+C) The data is normally distributed
+D) The dataset contains no outliers
+ANSWER: B
+What does a p-value represent?
+A) The probability of making a correct decision
+B) The probability of observing data as extreme as the sample, assuming the null hypothesis is true
+C) The sample mean
+D) The confidence level
+ANSWER: B
+What does accuracy measure in a classification model?
+A) The percentage of correctly predicted instances
+B) The ability to correctly predict positive instances
+C) The balance between precision and recall
+D) The difference between predicted and actual values
+ANSWER: A
+What does df.dropna() do in Pandas?
+A) Removes rows containing missing values
+B) Replaces NaN values with zeros
+C) Removes duplicate values
+D) None of the above
+ANSWER: A
+What does df.duplicated() do in Pandas?
+A) Removes duplicate rows
+B) Returns a Boolean series indicating duplicate rows
+C) Replaces duplicate values with NaN
+D) Sorts the DataFrame
+ANSWER: B
+What does df.info() display?
+A) Basic statistics like mean, median, and mode
+B) Column names, data types, and non-null counts
+C) Data visualization plots
+D) Missing values only
+ANSWER: B
+What does df.shape return?
+A) Number of rows
+B) Number of columns
+C) Tuple of rows and columns
+D) Total elements
+ANSWER: C
+What does Gini Impurity measure?
+A) The probability of a randomly chosen element being misclassified
+B) The correlation between features
+C) The difference between predicted and actual values
+D) The likelihood of overfitting
+ANSWER: A
+What does GPT stand for in NLP?
+A) Generalized Pre-trained Transformer
+B) Generated Predictive Tokens
+C) Graph-based Processing Tool
+D) Global Processing Transformer
+ANSWER: A
+What does hue parameter in Seaborn functions control?
+A) The color of a single plot
+B) The grouping of data points by a categorical variable
+C) The width of the plot
+D) The font size of labels
+ANSWER: B
+What does len({}) return?
+A) 0
+B) 1
+C) None
+D) Error
+ANSWER: A
+What does NLP stand for?
+A) Natural Learning Processing
+B) Neural Linguistic Programming
+C) Natural Language Processing
+D) Neural Language Prediction
+ANSWER: C
+What does np.arange(5) return?
+A) $$[1, 2, 3, 4, 5]$$
+B) $$[0, 1, 2, 3, 4]$$
+C) $$[0, 1, 2, 3, 4, 5]$$
+D) None
+ANSWER: B
+What does np.max(arr) return?
+A) The smallest value in the array
+B) The largest value in the array
+C) The sum of all values
+D) The average of all values
+ANSWER: B
+What does np.zeros((2,3)) create?
+A) A 2x3 array of ones
+B) A 2x3 array of zeros
+C) A 3x2 array of zeros
+D) A list of zeros
+ANSWER: B
+What does overfitting mean in Machine Learning?
+A) The model performs well on training data but poorly on new data
+B) The model has too few parameters
+C) The model ignores training data
+D) The model is too simple to capture patterns in the data
+ANSWER: A
+What does precision measure?
+A) The proportion of positive predictions that are actually correct
+B) The proportion of actual positives that were correctly identified
+C) The ratio of false positives to false negatives
+D) The percentage of incorrect predictions
+ANSWER: A
+What does Principal Component Analysis (PCA) do?
+A) Groups similar data points
+B) Finds the best decision boundary for classification
+C) Transforms high-dimensional data into fewer dimensions
+D) Predicts future data points
+ANSWER: C
+What does recall (sensitivity) measure?
+A) The percentage of positive cases that were correctly identified
+B) The percentage of negative cases that were correctly identified
+C) The proportion of false positives
+D) The difference between accuracy and precision
+ANSWER: A
+What does sns.boxplot() visualize?
+A) Mean and standard deviation
+B) Relationship between categorical and numerical data
+C) Frequency distribution
+D) Line trends over time
+ANSWER: B
+What does the .compile() method do in a Keras model?
+A) It adds new layers to the model
+B) It prepares the model for training by specifying loss and optimizer
+C) It initializes the dataset
+D) It converts the model to TensorFlow format
+ANSWER: B
+What does the "AR" component in an ARIMA model represent?
+A) Moving average
+B) Autoregressive component
+C) Smoothing parameter
+D) Seasonality factor
+ANSWER: B
+What does the "MA" term in ARIMA represent?
+A) Moving Average component
+B) Model Accuracy
+C) Mean Adjustment
+D) Moving Aggregation
+ANSWER: A
+What does the ARIMA model stand for?
+A) Auto-Regressive Integrated Moving Average
+B) Autocorrelation Residual Integrated Moving Average
+C) Automatic Regression Inference Model Analysis
+D) Averaged Regression Indexed Model Application
+ANSWER: A
+What does the interquartile range (IQR) measure?
+A) The difference between the largest and smallest values
+B) The middle 50% of the data
+C) The most frequent value
+D) The total number of values
+ANSWER: B
+What does the mode represent in a dataset?
+A) The sum of all values
+B) The most frequently occurring value
+C) The middle value
+D) The spread of the data
+ANSWER: B
+What does the standard deviation measure?
+A) The average of a dataset
+B) The spread of data points from the mean
+C) The most frequently occurring value
+D) The middle value in a dataset
+ANSWER: B
+What does the term "stride" refer to in CNNs?
+A) The number of steps taken when applying a filter
+B) The depth of the convolutional layer
+C) The output of the fully connected layer
+D) The function of the activation layer
+ANSWER: A
+What does the term “seasonality” refer to in time series data?
+A) A long-term increasing or decreasing pattern
+B) Short-term fluctuations due to periodic effects
+C) Random variations that cannot be predicted
+D) Noise introduced by missing values
+ANSWER: B
+What does the term cosine similarity measure in NLP?
+A) The number of characters in a word
+B) The similarity between two word vectors
+C) The frequency of a word in a document
+D) The number of sentences in a paragraph
+ANSWER: B
+What does YARN stand for in Hadoop?
+A) Yet Another Resource Negotiator
+B) Yellow Advanced Relational Network
+C) Your Automated Resource Node
+D) Yet Another Random Node
+ANSWER: A
+What function is used in Pandas to check for missing values?
+A) df.isna()
+B) df.isnull()
+C) Both A and B
+D) df.missing()
+ANSWER: C
+What function is used to check for missing values?
+A) df.isnull()
+B) df.check_null()
+C) df.find_na()
+D) df.loc_na()
+ANSWER: A
+What function is used to display the first few rows of a DataFrame?
+A) df.first()
+B) df.show()
+C) df.head()
+D) df.top()
+ANSWER: C
+What function is used to read a CSV file in Pandas?
+A) pd.load_csv()
+B) pd.read_csv()
+C) pd.open_csv()
+D) pd.import_csv()
+ANSWER: B
+What function is used to reshape an array in NumPy?
+A) reshape()
+B) resize()
+C) reorder()
+D) convert()
+ANSWER: A
+What is "bagging" in the context of Random Forest?
+A) A technique for feature scaling
+B) A method of using multiple samples to train models
+C) A clustering method
+D) A regularization technique
+ANSWER: B
+What is a "leaf node" in a Decision Tree?
+A) The starting point of the tree
+B) A node with no further splits
+C) A decision that needs further splitting
+D) A node that always contains numerical data
+ANSWER: B
+What is a "principal component" in PCA?
+A) A new feature created from a combination of existing features
+B) A cluster of similar data points
+C) A supervised learning label
+D) A centroid in K-Means
+ANSWER: A
+What is a Decision Tree used for?
+A) Regression only
+B) Classification only
+C) Both classification and regression
+D) Clustering
+ANSWER: C
+What is a disadvantage of K-Means clustering?
+A) It only works with categorical data
+B) It is sensitive to the initial choice of centroids
+C) It cannot handle large datasets
+D) It does not require selecting the number of clusters beforehand
+ANSWER: B
+What is a feature in Machine Learning?
+A) A program that runs machine learning models
+B) A characteristic or attribute used as input for a model
+C) The final output of a model
+D) A training algorithm
+ANSWER: B
+What is a key advantage of BERT over previous NLP models?
+A) It processes text in a single direction only
+B) It captures word meaning in both left and right contexts
+C) It only works for short text documents
+D) It does not require training
+ANSWER: B
+What is a key feature of TensorFlow?
+A) It does not support GPU acceleration
+B) It allows automatic differentiation for backpropagation
+C) It is only used for image processing
+D) It does not support deep learning models
+ANSWER: B
+What is a major limitation of a simple moving average?
+A) It cannot be used for forecasting
+B) It is not useful for smoothing data
+C) It gives equal weight to all observations
+D) It removes all seasonality from data
+ANSWER: C
+What is a neural network primarily designed to do?
+A) Perform traditional statistical analysis
+B) Mimic the way the human brain processes information
+C) Solve only linear problems
+D) Execute rule-based programming
+ANSWER: B
+What is a Pandas Series?
+A) A 2D table
+B) A 1D labeled array
+C) A NumPy array
+D) A dictionary
+ANSWER: B
+What is a Spark Session?
+A) An entry point for working with Spark applications
+B) A Python function for connecting to HDFS
+C) A MapReduce function in Spark
+D) A real-time monitoring tool
+ANSWER: A
+What is an application of CNNs in real-world scenarios?
+A) Handwritten digit recognition
+B) Spam email detection
+C) Weather prediction
+D) Fraud detection in banking
+ANSWER: A
+What is Apache Kafka used for?
+A) Streaming data in real-time
+B) Running SQL queries
+C) Processing batch jobs
+D) Managing NoSQL databases
+ANSWER: A
+What is Apache Spark mainly used for?
+A) Processing small datasets
+B) Real-time and batch processing
+C) Only batch processing
+D) Data visualization
+ANSWER: B
+What is backpropagation used for in a neural network?
+A) Making forward predictions
+B) Updating weights by minimizing loss
+C) Increasing the number of hidden layers
+D) Reducing model complexity
+ANSWER: B
+What is backtesting in time series forecasting?
+A) Evaluating a model's performance on past data
+B) Using multiple models for ensemble forecasting
+C) Performing feature selection before applying ARIMA
+D) Identifying causation in time series data
+ANSWER: A
+What is Machine Learning?
+A) A way to program computers using only conditional statements
+B) A subset of AI that allows computers to learn from data
+C) A process of manually labeling data for analysis
+D) A method for storing large amounts of data
+ANSWER: B
+What is NumPy primarily used for?
+A) Text processing
+B) Numerical computing
+C) Image editing
+D) Web development
+ANSWER: B
+What is overfitting in time series forecasting?
+A) When the model performs well on training data but poorly on new data
+B) When the model does not capture any patterns in the data
+C) When too few data points are used for training
+D) When forecasting errors are minimized
+ANSWER: A
+What is PySpark?
+A) A Python-based database
+B) A Python API for Apache Spark
+C) A cloud-based data warehouse
+D) A programming language
+ANSWER: B
+What is real-time data processing?
+A) Processing data as it arrives
+B) Processing only stored data
+C) Processing data with MapReduce
+D) Processing batch data in Hadoop
+ANSWER: A
+What is sentiment analysis used for?
+A) Identifying named entities in text
+B) Detecting the emotion or opinion in a text
+C) Summarizing large documents
+D) Translating text from one language to another
+ANSWER: B
+What is Spark SQL used for?
+A) Running SQL-like queries on structured data
+B) Processing images in Spark
+C) Storing JSON data in Hadoop
+D) Running MapReduce jobs
+ANSWER: A
+What is the core storage component of Hadoop?
+A) Hadoop File Storage (HFS)
+B) NoSQL Database
+C) Hadoop Distributed File System (HDFS)
+D) BigTable
+ANSWER: C
+What is the correct syntax to create a tuple?
+A) my_tuple = (1, 2, 3)
+B) my_tuple = [1, 2, 3]
+C) my_tuple = {1, 2, 3}
+D) my_tuple = "1, 2, 3"
+ANSWER: A
+What is the difference between classification and regression?
+A) Classification predicts numerical values, regression predicts categories
+B) Regression predicts numerical values, classification predicts categories
+C) Both predict continuous values
+D) Classification uses linear models, regression does not
+ANSWER: B
+What is the difference between in-sample and out-of-sample forecasting?
+A) In-sample forecasting uses historical data, while out-of-sample predicts future values
+B) Out-of-sample forecasting is always more accurate
+C) In-sample forecasting is used for classification problems
+D) Out-of-sample forecasting only applies to ARIMA models
+ANSWER: A
+What is the difference between stemming and lemmatization?
+A) Lemmatization provides the root word based on dictionary meaning, while stemming just cuts off suffixes
+B) Stemming uses deep learning, while lemmatization does not
+C) Lemmatization removes stopwords, while stemming does not
+D) Stemming is only used for text summarization
+ANSWER: A
+What is the effect of a highly imbalanced dataset on accuracy?
+A) It improves accuracy
+B) It makes accuracy an unreliable metric
+C) It has no effect on accuracy
+D) It increases precision
+ANSWER: B
+What is the first step in K-Means clustering?
+A) Assign each data point to a random cluster
+B) Select K random centroids
+C) Compute the Euclidean distance between all points
+D) Merge similar clusters
+ANSWER: B
+What is the formula for the F1 Score?
+A) $$2 × (Precision × Recall) / (Precision + Recall)$$
+B) $$(Precision + Recall) / 2$$
+C) $$Precision - Recall$$
+D) $$Accuracy / Recall$$
+ANSWER: A
+What is the formula for variance?
+A) (Sum of squared differences from the mean) / (Number of observations - 1)
+B) Sum of all values divided by the total count
+C) Middle value of an ordered dataset
+D) Most frequently occurring value
+ANSWER: A
+What is the full form of BERT in NLP?
+A) Bidirectional Encoder Representations from Transformers
+B) Basic Encoding for Recursive Text
+C) Bayesian Encoding for Robust Text
+D) Binary Encoder for Real-time Translation
+ANSWER: A
+What is the goal of Dimensionality Reduction?
+A) To remove unnecessary features while retaining information
+B) To increase the number of dimensions in a dataset
+C) To add more features to improve classification
+D) To replace missing values in datasets
+ANSWER: A
+What is the key advantage of exponential smoothing over simple moving averages?
+A) It gives more weight to recent observations
+B) It removes all seasonality
+C) It does not require any parameters
+D) It performs better on stationary data
+ANSWER: A
+What is the key advantage of RDDs in Spark?
+A) They enable fault tolerance and parallel processing
+B) They store data in relational tables
+C) They are used for deep learning applications
+D) They reduce the need for cloud storage
+ANSWER: A
+What is the key difference between a list and a tuple?
+A) Lists are immutable, tuples are mutable
+B) Lists use parentheses, tuples use square brackets
+C) Lists are mutable, tuples are immutable
+D) There is no difference
+ANSWER: C
+What is the key innovation behind Transformer models?
+A) Recurrent connections between neurons
+B) Attention mechanisms
+C) Feature scaling
+D) Bag-of-Words representation
+ANSWER: B
+What is the main advantage of PCA?
+A) It improves model interpretability by reducing dimensions
+B) It guarantees 100% accuracy in classification
+C) It replaces clustering algorithms
+D) It only works for categorical data
+ANSWER: A
+What is the main advantage of using machine learning models for time series forecasting?
+A) They can capture complex patterns in the data
+B) They always outperform traditional models
+C) They do not require historical data
+D) They eliminate randomness in data
+ANSWER: A
+What is the main challenge of big data processing?
+A) Managing large volumes of data efficiently
+B) Storing small amounts of data
+C) Limiting data access to one user
+D) Processing only numerical data
+ANSWER: A
+What is the main difference between K-Means and Hierarchical clustering?
+A) K-Means is iterative, while Hierarchical clustering builds a tree structure
+B) Hierarchical clustering is supervised, while K-Means is unsupervised
+C) K-Means is based on probability, while Hierarchical clustering is not
+D) K-Means only works with numerical data, while Hierarchical clustering does not
+ANSWER: A
+What is the main drawback of the ReLU activation function?
+A) It only outputs values between 0 and 1
+B) It can cause dead neurons due to negative values
+C) It cannot be used for classification tasks
+D) It requires more computational power than other functions
+ANSWER: B
+What is the main goal of clustering?
+A) To classify data into predefined categories
+B) To group similar data points together
+C) To reduce dimensionality
+D) To increase accuracy in supervised learning
+ANSWER: B
+What is the main goal of time series forecasting?
+A) To determine relationships between variables
+B) To predict future values based on past data
+C) To reduce dimensionality in large datasets
+D) To classify categorical data
+ANSWER: B
+What is the main objective of Linear Regression?
+A) Classify data into categories
+B) Find relationships between input and output variables
+C) Cluster similar data points
+D) Reduce the dimensionality of data
+ANSWER: B
+What is the main purpose of a convolutional neural network (CNN)?
+A) Predicting time series data
+B) Analyzing tabular data
+C) Processing and classifying images
+D) Reducing overfitting in regression models
+ANSWER: C
+What is the main purpose of a dendrogram in Hierarchical Clustering?
+A) To visualize how clusters are formed
+B) To determine the best features for clustering
+C) To reduce dimensionality
+D) To classify new data points
+ANSWER: A
+What is the main purpose of time series analysis?
+A) To classify categorical data
+B) To understand patterns and make future predictions
+C) To determine cause-and-effect relationships
+D) To reduce dimensionality
+ANSWER: B
+What is the main purpose of tokenization in NLP?
+A) To split text into smaller meaningful units
+B) To remove punctuation from text
+C) To translate text from one language to another
+D) To analyze the sentiment of a text
+ANSWER: A
+What is the mean of the data set $${2, 4, 6, 8, 10}$$?
+A) 5
+B) 6
+C) 7
+D) 8
+ANSWER: B
+What is the most common confidence level used in hypothesis testing?
+A) $$50\%$$
+B) $$75\%$$
+C) $$90\%$$
+D) $$95\%$$
+ANSWER: D
+What is the null hypothesis in hypothesis testing?
+A) A statement that there is an effect or difference
+B) A statement that there is no effect or difference
+C) A statement that data is normally distributed
+D) A statement that data contains no outliers
+ANSWER: B
+What is the output of $${1, 2, 3, 3, 2}$$ in Python?
+A) $${1, 2, 3, 3, 2}$$
+B) $${1, 2, 3}$$
+C) $$[1, 2, 3]$$
+D) $$(1, 2, 3)$$
+ANSWER: B
+What is the output of np.linspace(1, 5, 5)?
+A) $$[1, 2, 3, 4, 5]$$
+B) $$[1, 1.5, 2, 2.5, 3]$$
+C) $$[1, 2.5, 4]$$
+D) $$[1, 2, 3, 4]$$
+ANSWER: A
+What is the output of print(type(3.14)) in Python?
+A) int
+B) float
+C) string
+D) boolean
+ANSWER: B
+What is the primary advantage of using big data analytics?
+A) Ability to process large and complex data efficiently
+B) Reduced need for cloud storage
+C) Lower memory consumption
+D) Data compression
+ANSWER: A
+What is the primary advantage of using Keras?
+A) It is lower-level and requires more manual coding
+B) It is more complex than TensorFlow
+C) It provides a user-friendly interface for building neural networks
+D) It does not support deep learning models
+ANSWER: C
+What is the primary assumption of an ARIMA model?
+A) Data must be normally distributed
+B) Data must be stationary
+C) Data must have no missing values
+D) Data must be periodic
+ANSWER: B
+What is the primary goal of Data Science?
+A) Creating websites
+B) Extracting insights from data
+C) Writing novels
+D) Making phone calls
+ANSWER: B
+What is the primary purpose of Seaborn?
+A) Machine learning
+B) Advanced data visualization
+C) Statistical modeling
+D) Image processing
+ANSWER: B
+What is the probability of getting heads in a fair coin toss?
+A) 0
+B) 0.25
+C) 0.5
+D) 1
+ANSWER: C
+What is the probability of rolling a 4 on a fair six-sided die?
+A) 1/2
+B) 1/3
+C) 1/6
+D) 1/12
+ANSWER: C
+What is the process of converting data into a more useful format called?
+A) Data transformation
+B) Data extraction
+C) Data filtering
+D) Data mining
+ANSWER: A
+What is the purpose of a histogram in EDA?
+A) To visualize the frequency distribution of data
+B) To compare multiple variables
+C) To analyze categorical data
+D) To replace missing values
+ANSWER: A
+What is the purpose of a scatter plot?
+A) To show relationships between two variables
+B) To display frequency distributions
+C) To represent categorical data
+D) To summarize a dataset
+ANSWER: A
+What is the purpose of an activation function in a neural network?
+A) To determine the structure of the network
+B) To introduce non-linearity into the model
+C) To train the neural network
+D) To reduce the number of neurons
+ANSWER: B
+What is the purpose of differencing in time series analysis?
+A) To remove seasonality
+B) To make the data stationary
+C) To smooth the data completely
+D) To reduce forecast errors
+ANSWER: B
+What is the purpose of Exploratory Data Analysis (EDA)?
+A) To summarize dataset characteristics
+B) To create predictive models
+C) To automate machine learning
+D) To remove all missing values
+ANSWER: A
+What is the purpose of inferential statistics?
+A) To summarize and describe data
+B) To make predictions about a population from a sample
+C) To organize data into tables
+D) To measure exact population parameters
+ANSWER: B
+What is the purpose of one-hot encoding?
+A) To remove duplicate values
+B) To convert categorical data into numerical format
+C) To handle missing values
+D) To scale numeric data
+ANSWER: B
+What is the purpose of removing stopwords in text preprocessing?
+A) To increase text length
+B) To remove unnecessary words that do not add meaning
+C) To change words to their root forms
+D) To perform machine translation
+ANSWER: B
+What is the purpose of the return statement in a function?
+A) It prints a value
+B) It stops function execution and returns a value
+C) It takes user input
+D) It loops through a function
+ANSWER: B
+What is the range of predicted probabilities in Logistic Regression?
+A) -∞ to +∞
+B) 0 to 1
+C) -1 to 1
+D) Any real number
+ANSWER: B
+What is the range of the dataset $${5, 12, 18, 24, 30}$$?
+A) 5
+B) 12
+C) 25
+D) 30
+ANSWER: C
+What is the result of $$5 / 2$$ in Python?
+A) 2
+B) 2.5
+C) 3
+D) 10
+ANSWER: B
+What is the role of a data pipeline in big data processing?
+A) To move and transform data from one system to another
+B) To create relational databases
+C) To analyze small datasets
+D) To replace data storage
+ANSWER: A
+What is the role of pooling layers in CNNs?
+A) To apply activation functions
+B) To reduce spatial dimensions and retain important features
+C) To increase the size of input data
+D) To remove noisy data points
+ANSWER: B
+What is the role of the loss function in deep learning?
+A) To update the model architecture
+B) To compute the difference between actual and predicted values
+C) To increase training time
+D) To remove redundant layers
+ANSWER: B
+What is the sum of probabilities of all possible outcomes of an event?
+A) 0.5
+B) 1
+C) 10
+D) Undefined
+ANSWER: B
+What is the term for the process of preparing and cleaning data before analysis?
+A) Data visualization
+B) Data wrangling
+C) Data deployment
+D) Data compression
+ANSWER: B
+What is transfer learning in deep learning?
+A) Training a model from scratch
+B) Using a pre-trained model on a new task
+C) Using CNNs only for classification tasks
+D) Reducing the number of hidden layers in a neural network
+ANSWER: B
+What kind of plot does sns.violinplot() create?
+A) A density distribution with quartiles
+B) A histogram
+C) A correlation matrix
+D) A pie chart
+ANSWER: A
+What type of data structure is commonly used in Spark for distributed computing?
+A) DataFrame
+B) RDD (Resilient Distributed Dataset)
+C) SQL Table
+D) NoSQL Document
+ANSWER: B
+What type of learning involves an agent interacting with an environment to maximize rewards?
+A) Supervised Learning
+B) Unsupervised Learning
+C) Reinforcement Learning
+D) Deep Learning
+ANSWER: C
+What type of problems can neural networks solve effectively?
+A) Only regression problems
+B) Only classification problems
+C) Both regression and classification problems
+D) Only unsupervised learning problems
+ANSWER: C
+What type of visualization does sns.heatmap() create?
+A) Line chart
+B) Bar chart
+C) Correlation matrix
+D) Pie chart
+ANSWER: C
+What will be the output of $$print(5 ** 2)$$ in Python?
+A) 25
+B) 10
+C) 52
+D) 7
+ANSWER: A
+What will for i in range(3): print(i) output?
+A) 1 2 3
+B) 0 1 2
+C) 0 1 2 3
+D) An error
+ANSWER: B
+What will if $$5 > 3$$: print("Yes") output?
+A) Yes
+B) No
+C) Nothing
+D) Error
+ANSWER: A
+What will my_list = [x for x in range(5)] create?
+A) $$[0, 1, 2, 3, 4]$$
+B) $$[1, 2, 3, 4, 5]$$
+C) $${0, 1, 2, 3, 4}$$
+D) $$(0, 1, 2, 3, 4)$$
+ANSWER: A
+What will print(3 == 3 and 4 > 2) return?
+A) True
+B) False
+C) Error
+D) None
+ANSWER: A
+What will print(len([1, 2, 3, 4])) return?
+A) 3
+B) 4
+C) 5
+D) Error
+ANSWER: B
+What will range(3) return?
+A) A list [1, 2, 3]
+B) A list [0, 1, 2]
+C) A list [0, 1, 2, 3]
+D) An error
+ANSWER: B
+When applying PCA, how do you decide how many components to keep?
+A) By selecting the first three components
+B) By choosing components that explain most of the variance
+C) By keeping all components
+D) By randomly selecting components
+ANSWER: B
+When both precision and recall are important, which metric should be used?
+A) Accuracy
+B) F1 Score
+C) Sensitivity
+D) Specificity
+ANSWER: B
+When choosing a time series forecasting model, which factor is MOST important?
+A) Model complexity
+B) Forecasting accuracy
+C) Number of independent variables
+D) Choice of programming language
+ANSWER: B
+Which activation function is commonly used in hidden layers of deep neural networks?
+A) Sigmoid
+B) ReLU
+C) Softmax
+D) Linear
+ANSWER: B
+Which activation function is most prone to the vanishing gradient problem?
+A) ReLU
+B) Sigmoid
+C) Leaky ReLU
+D) Swish
+ANSWER: B
+Which algorithm is best for predicting continuous values?
+A) K-Means
+B) Logistic Regression
+C) Linear Regression
+D) Random Forest Classification
+ANSWER: C
+Which algorithm is commonly used for clustering?
+A) K-Means
+B) Decision Tree
+C) Linear Regression
+D) Naïve Bayes
+ANSWER: A
+Which algorithm is most commonly used for clustering?
+A) K-Means
+B) Logistic Regression
+C) Decision Trees
+D) Naïve Bayes
+ANSWER: A
+Which argument is used in Seaborn to define the dataset?
+A) data=
+B) dataset=
+C) values=
+D) df=
+ANSWER: A
+Which big data technology is best suited for fraud detection in banking?
+A) Spark Streaming
+B) Hadoop MapReduce
+C) MongoDB
+D) NoSQL databases
+ANSWER: A
+Which cloud-based platform is commonly used for big data processing?
+A) Amazon AWS
+B) Microsoft Excel
+C) SQLite
+D) Windows Notepad
+ANSWER: A
+Which component of Hadoop is responsible for parallel data processing?
+A) HDFS
+B) MapReduce
+C) YARN
+D) Hive
+ANSWER: B
+Which confidence interval is wider?
+A) $$90\%$$
+B) $$95\%$$
+C) $$99\%$$
+D) $$50\%$$
+ANSWER: C
+Which criterion is commonly used to split nodes in a Decision Tree?
+A) Mean Squared Error (MSE)
+B) Entropy or Gini Index
+C) Pearson Correlation
+D) Euclidean Distance
+ANSWER: B
+Which data structure is used to store tabular data in Pandas?
+A) Series
+B) DataFrame
+C) Dictionary
+D) NumPy Array
+ANSWER: B
+Which dataset is commonly used for benchmarking CNN models?
+A) MNIST
+B) Titanic
+C) UCI Wine Dataset
+D) Boston Housing Dataset
+ANSWER: A
+Which deep learning architecture powers models like BERT and GPT?
+A) CNN
+B) LSTM
+C) Transformer
+D) Decision Trees
+ANSWER: C
+Which deep learning framework is developed by Google?
+A) PyTorch
+B) TensorFlow
+C) Caffe
+D) Theano
+ANSWER: B
+Which framework is widely used for building CNNs?
+A) Keras
+B) Scikit-learn
+C) Pandas
+D) Tableau
+ANSWER: A
+Which function in Matplotlib is used to plot a histogram?
+A) plt.hist()
+B) plt.bar()
+C) plt.plot()
+D) plt.pie()
+ANSWER: A
+Which function is used in Keras to train a model?
+A) model.train()
+B) model.fit()
+C) model.compile()
+D) model.predict()
+ANSWER: B
+Which function is used to create a bar plot in Seaborn?
+A) sns.barplot()
+B) sns.boxplot()
+C) sns.histplot()
+D) sns.violinplot()
+ANSWER: A
+Which function is used to create a pair plot in Seaborn?
+A) sns.pairplot()
+B) sns.scatterplot()
+C) sns.jointplot()
+D) sns.relplot()
+ANSWER: A
+Which function is used to create a scatter plot in Seaborn?
+A) sns.scatterplot()
+B) sns.plot()
+C) sns.histplot()
+D) sns.lineplot()
+ANSWER: A
+Which function is used to find the mean of an array?
+A) np.average()
+B) np.mean()
+C) np.median()
+D) np.stats()
+ANSWER: B
+Which function is used to get basic statistical details of a DataFrame?
+A) df.describe()
+B) df.stats()
+C) df.mean()
+D) df.sum()
+ANSWER: A
+Which function is used to get the shape of a NumPy array?
+A) array.length()
+B) array.shape
+C) array.size()
+D) array.count()
+ANSWER: B
+Which function provides basic descriptive statistics for a Pandas DataFrame?
+A) df.describe()
+B) df.info()
+C) df.summary()
+D) df.stats()
+ANSWER: A
+Which industry benefits the most from big data analytics?
+A) Healthcare
+B) Finance
+C) Retail
+D) All of the above
+ANSWER: D
+Which keyword is used to define a function in Python?
+A) def
+B) function
+C) define
+D) fun
+ANSWER: A
+Which library in Spark is used for machine learning?
+A) SparkML
+B) TensorFlow
+C) HadoopML
+D) SparkAI
+ANSWER: A
+Which Machine Learning approach is used for pattern detection in unlabeled data?
+A) Supervised Learning
+B) Unsupervised Learning
+C) Semi-Supervised Learning
+D) Rule-Based Learning
+ANSWER: B
+Which mathematical concept is used in PCA?
+A) Eigenvalues and Eigenvectors
+B) Euclidean distance
+C) Probability distributions
+D) Decision trees
+ANSWER: A
+Which Matplotlib function is used to display a line plot?
+A) plt.lineplot()
+B) plt.plot()
+C) plt.scatter()
+D) plt.linegraph()
+ANSWER: B
+Which method adds an item to a list?
+A) list.append(item)
+B) list.add(item)
+C) list.insert(item)
+D) list.extend(item)
+ANSWER: A
+Which metric is commonly used to compare time series models?
+A) Mean Squared Error (MSE)
+B) F1-score
+C) ROC-AUC
+D) Adjusted R-squared
+ANSWER: A
+Which metric should be used when false negatives are more costly than false positives?
+A) Precision
+B) Recall
+C) Accuracy
+D) F1 Score
+ANSWER: B
+Which NLP model is commonly used for text summarization?
+A) CNN
+B) BERT
+C) Logistic Regression
+D) k-Means Clustering
+ANSWER: B
+Which NLP preprocessing technique is used to convert words into lowercase?
+A) Tokenization
+B) Normalization
+C) Lemmatization
+D) Stemming
+ANSWER: B
+Which NLP technique helps group similar words together based on their context?
+A) Named Entity Recognition
+B) Word Embeddings
+C) Stemming
+D) Lemmatization
+ANSWER: B
+Which of the following assumptions is NOT required for Linear Regression?
+A) Linearity
+B) Independence of errors
+C) Presence of outliers
+D) Homoscedasticity (constant variance of errors)
+ANSWER: C
+Which of the following best describes Deep Learning?
+A) A rule-based decision-making system
+B) A subset of Machine Learning using neural networks
+C) A statistical method for probability estimation
+D) A technique used only in supervised learning
+ANSWER: B
+Which of the following best describes lazy evaluation in Spark?
+A) Computation is delayed until an action is performed
+B) Computation occurs immediately after a transformation
+C) Spark does not support transformations
+D) Spark only processes real-time data
+ANSWER: A
+Which of the following functions can be used to replace values in a DataFrame?
+A) df.replace()
+B) df.modify()
+C) df.fillna()
+D) df.transform()
+ANSWER: A
+Which of the following industries commonly use time series forecasting?
+A) Finance and stock market analysis
+B) Weather prediction
+C) Sales forecasting
+D) All of the above
+ANSWER: D
+Which of the following is a common performance metric for time series forecasting?
+A) R-squared
+B) Mean Absolute Error (MAE)
+C) Confusion Matrix
+D) Precision
+ANSWER: B
+Which of the following is a correct way to define a variable in Python?
+A) x = 10
+B) int x = 10
+C) variable x = 10
+D) define x = 10
+ANSWER: A
+Which of the following is a disadvantage of PCA?
+A) It does not work with numerical data
+B) It can remove important features
+C) It always increases accuracy
+D) It cannot handle missing values
+ANSWER: B
+Which of the following is a drawback of using Decision Trees?
+A) They are difficult to interpret
+B) They tend to overfit on training data
+C) They require deep neural networks
+D) They cannot handle categorical data
+ANSWER: B
+Which of the following is a measure of dispersion?
+A) Mean
+B) Median
+C) Variance
+D) Mode
+ANSWER: C
+Which of the following is a method to replace missing values with a specific value in Pandas?
+A) df.dropna()
+B) df.fillna(value)
+C) df.replace_na(value)
+D) df.missing(value)
+ANSWER: B
+Which of the following is a mutable data structure in Python?
+A) Tuple
+B) List
+C) String
+D) Set
+ANSWER: B
+Which of the following is a popular Dimensionality Reduction technique?
+A) Decision Trees
+B) Principal Component Analysis (PCA)
+C) K-Means
+D) Support Vector Machines (SVM)
+ANSWER: B
+Which of the following is a real-world application of NLP?
+A) Spam detection
+B) Machine translation
+C) Chatbots
+D) All of the above
+ANSWER: D
+Which of the following is a regression algorithm?
+A) Decision Tree
+B) K-Means
+C) Linear Regression
+D) Naïve Bayes
+ANSWER: C
+Which of the following is a stemming algorithm?
+A) Porter Stemmer
+B) BERT
+C) Word2Vec
+D) GPT
+ANSWER: A
+Which of the following is a stopword in English?
+A) Data
+B) Computer
+C) The
+D) Python
+ANSWER: C
+Which of the following is an advantage of using GPUs for deep learning?
+A) GPUs can perform complex calculations faster than CPUs
+B) GPUs consume less power than CPUs
+C) GPUs have larger memory than CPUs
+D) GPUs reduce the need for backpropagation
+ANSWER: A
+Which of the following is an application of sentiment analysis?
+A) Spam email detection
+B) Analyzing customer reviews
+C) Speech recognition
+D) Image classification
+ANSWER: B
+Which of the following is an example of a big data application?
+A) Personalized recommendations on Netflix
+B) Text editing in Microsoft Word
+C) Simple arithmetic calculations
+D) Sending emails
+ANSWER: A
+Which of the following is an example of a classification problem?
+A) Predicting house prices
+B) Identifying spam emails
+C) Estimating the stock market trends
+D) Forecasting daily temperatures
+ANSWER: B
+Which of the following is an example of outlier detection?
+A) Box plot analysis
+B) Z-score method
+C) IQR (Interquartile Range) method
+D) All of the above
+ANSWER: D
+Which of the following is an example of Unsupervised Learning?
+A) Spam email classification
+B) Customer segmentation
+C) Predicting house prices
+D) Sentiment analysis
+ANSWER: B
+Which of the following is NOT a benefit of Random Forest?
+A) High accuracy
+B) Reduced overfitting
+C) Works well with large datasets
+D) Requires fewer training samples than Decision Trees
+ANSWER: D
+Which of the following is NOT a characteristic of big data?
+A) Volume
+B) Variety
+C) Velocity
+D) Vocabulary
+ANSWER: D
+Which of the following is NOT a characteristic of big data?
+A) High processing speed
+B) Small storage requirements
+C) Large volume
+D) High data variety
+ANSWER: B
+Which of the following is NOT a common text preprocessing step?
+A) Tokenization
+B) Stopword removal
+C) Data visualization
+D) Lemmatization
+ANSWER: C
+Which of the following is NOT a commonly used optimizer in deep learning?
+A) Adam
+B) RMSprop
+C) Gradient Descent
+D) k-Nearest Neighbors
+ANSWER: D
+Which of the following is NOT a component of time series data?
+A) Trend
+B) Seasonality
+C) Regression
+D) Randomness
+ANSWER: C
+Which of the following is NOT a measure of central tendency?
+A) Mean
+B) Median
+C) Standard deviation
+D) Mode
+ANSWER: C
+Which of the following is NOT a measure of central tendency?
+A) Mean
+B) Median
+C) Mode
+D) Range
+ANSWER: D
+Which of the following is NOT a property of probability?
+A) Probabilities must be between 0 and 1
+B) The probability of an impossible event is 1
+C) The sum of probabilities of all possible outcomes is 1
+D) Probabilities represent the likelihood of an event occurring
+ANSWER: B
+Which of the following is NOT a tool used in Data Science?
+A) TensorFlow
+B) PyTorch
+C) Excel
+D) Adobe Premiere
+ANSWER: D
+Which of the following is NOT a type of exponential smoothing method?
+A) Simple exponential smoothing
+B) Holt’s linear trend method
+C) Holt-Winters method
+D) Logistic exponential smoothing
+ANSWER: D
+Which of the following is NOT a type of Machine Learning?
+A) Supervised Learning
+B) Unsupervised Learning
+C) Reinforcement Learning
+D) Structured Learning
+ANSWER: D
+Which of the following is NOT a typical application of Data Science?
+A) Fraud detection
+B) Image recognition
+C) Cooking recipes
+D) Recommendation systems
+ANSWER: C
+Which of the following is NOT a valid dictionary operation?
+A) Adding a key-value pair
+B) Accessing values using a key
+C) Duplicating keys
+D) Updating values
+ANSWER: C
+Which of the following is NOT a valid Python data type?
+A) List
+B) Dictionary
+C) Collection
+D) Tuple
+ANSWER: C
+Which of the following is NOT a word embedding model?
+A) Word2Vec
+B) GloVe
+C) FastText
+D) Decision Tree
+ANSWER: D
+Which of the following is NOT an alternative to PCA?
+A) Linear Discriminant Analysis (LDA)
+B) Autoencoders
+C) Singular Value Decomposition (SVD)
+D) Random Forest
+ANSWER: D
+Which of the following is NOT an Apache Spark component?
+A) Spark SQL
+B) Spark Streaming
+C) Spark MLib
+D) SparkDB
+ANSWER: D
+Which of the following is the basic unit of a neural network?
+A) Neuron
+B) Perceptron
+C) Synapse
+D) Activation function
+ANSWER: A
+Which of the following is used to get user input in Python?
+A) scan()
+B) input()
+C) read()
+D) fetch()
+ANSWER: B
+Which of the following methods can be used for feature scaling?
+A) Min-Max Scaling
+B) Standardization (Z-score normalization)
+C) Log transformation
+D) All of the above
+ANSWER: D
+Which of the following methods can be used to handle missing values in a dataset?
+A) Removing rows with missing values
+B) Filling missing values with the mean or median
+C) Using interpolation techniques
+D) All of the above
+ANSWER: D
+Which of the following Python data types is immutable?
+A) List
+B) Dictionary
+C) Tuple
+D) Set
+ANSWER: C
+Which of the following statements about moving averages is TRUE?
+A) A longer moving average reacts more quickly to changes in data
+B) A shorter moving average smooths fluctuations more than a longer one
+C) A moving average helps detect trends in time series data
+D) A moving average is only applicable to non-seasonal data
+ANSWER: C
+Which of the following statements about Spark DataFrames is TRUE?
+A) DataFrames are immutable
+B) DataFrames do not support SQL queries
+C) DataFrames cannot handle structured data
+D) DataFrames do not support distributed computing
+ANSWER: A
+Which of the following techniques helps reduce overfitting in CNNs?
+A) Increasing the number of layers indefinitely
+B) Using dropout layers
+C) Removing activation functions
+D) Ignoring pooling layers
+ANSWER: B
+Which of the following tests is used to compare means between two groups?
+A) Chi-square test
+B) T-test
+C) ANOVA
+D) Regression analysis
+ANSWER: B
+Which of the following tools is commonly used in Data Science?
+A) Photoshop
+B) Jupyter Notebook
+C) Microsoft Word
+D) PowerPoint
+ANSWER: B
+Which of the following tools is used for real-time big data processing?
+A) Apache Flink
+B) Hadoop MapReduce
+C) MySQL
+D) PostgreSQL
+ANSWER: A
+Which of the following will remove an item from a set?
+A) set.pop()
+B) set.remove(value)
+C) set.discard(value)
+D) All of the above
+ANSWER: D
+Which of these fields is Data Science closely related to?
+A) Astronomy
+B) Machine Learning
+C) Sports Coaching
+D) Philosophy
+ANSWER: B
+Which pooling technique is commonly used in CNNs?
+A) Mean pooling
+B) Max pooling
+C) Min pooling
+D) Random pooling
+ANSWER: B
+Which probability distribution is used for modeling the number of successes in a fixed number of trials?
+A) Binomial distribution
+B) Normal distribution
+C) Poisson distribution
+D) Exponential distribution
+ANSWER: A
+Which programming language is widely used in Data Science?
+A) Java
+B) C++
+C) Python
+D) HTML
+ANSWER: C
+Which symbol is used for single-line comments in Python?
+A) $$//$$
+B) $$#$$
+C) $$/*$$
+D) $$--$$
+ANSWER: B
+Which technique is used in Word2Vec to train word embeddings?
+A) Skip-gram
+B) Decision Trees
+C) Random Forest
+D) k-Means Clustering
+ANSWER: A
+Which term best describes the process of finding patterns in large datasets?
+A) Video rendering
+B) Data mining
+C) Photo editing
+D) Handwriting analysis
+ANSWER: B
+Which transformation operation is used to filter out specific data from an RDD?
+A) filter()
+B) map()
+C) reduce()
+D) collect()
+ANSWER: A
+Which type of clustering forms a tree-like structure?
+A) K-Means
+B) Agglomerative Hierarchical Clustering
+C) DBSCAN
+D) Random Forest
+ANSWER: B
+Which type of datasets benefit the most from PCA?
+A) High-dimensional datasets
+B) Small datasets with few variables
+C) Unstructured text data
+D) Binary classification datasets
+ANSWER: A
+Why does a Random Forest reduce overfitting compared to a Decision Tree?
+A) It selects the best tree and discards the rest
+B) It uses multiple trees and averages predictions
+C) It only works with categorical data
+D) It has a deeper structure than Decision Trees
+ANSWER: B
+Why is Data Science important?
+A) It helps create new languages
+B) It enables decision-making based on data-driven insights
+C) It replaces human thinking completely
+D) It is used only in social media
+ANSWER: B
+Why is it important to check residuals in a time series model?
+A) To ensure the errors are randomly distributed
+B) To remove seasonality effects
+C) To identify missing data points
+D) To improve classification accuracy
+ANSWER: A
+Word embeddings help in:
+A) Converting words into numerical vectors
+B) Tokenizing text into sentences
+C) Removing punctuation from text
+D) Performing sentiment analysis
+ANSWER: A
+How do you call a function named greet in Python?
+A) greet()
+B) call greet
+C) run greet()
+D) execute(greet)
+ANSWER: A
+How do you convert a string "100" into an integer in Python?
+A) toInt("100")
+B) convert("100", int)
+C) int("100")
+D) integer("100")
+ANSWER: C
+How do you define a function with two parameters in Python?
+A) def my_function(a, b):
+B) function my_function(a, b):
+C) define my_function(a, b):
+D) my_function = function(a, b):
+ANSWER: A
+How do you import a module in Python?
+A) import module_name
+B) include module_name
+C) use module_name
+D) load module_name
+ANSWER: A
+What data type is used for storing a sequence of characters in Python?
+A) List
+B) Integer
+C) String
+D) Boolean
+ANSWER: C
+What is the output of print(type(3.14)) in Python?
+A) int
+B) float
+C) string
+D) boolean
+ANSWER: B
+What is the primary goal of Data Science?
+A) Creating websites
+B) Extracting insights from data
+C) Writing novels
+D) Making phone calls
+ANSWER: B
+What is the purpose of the return statement in a function?
+A) It prints a value
+B) It stops function execution and returns a value
+C) It takes user input
+D) It loops through a function
+ANSWER: B
+What is the result of $$5 / 2$$ in Python?
+A) 2
+B) 2.5
+C) 3
+D) 10
+ANSWER: B
+What is the term for the process of preparing and cleaning data before analysis?
+A) Data visualization
+B) Data wrangling
+C) Data deployment
+D) Data compression
+ANSWER: B
+What will be the output of $$print(5 ** 2)$$ in Python?
+A) 25
+B) 10
+C) 52
+D) 7
+ANSWER: A
+What will for i in range(3): print(i) output?
+A) 1 2 3
+B) 0 1 2
+C) 0 1 2 3
+D) An error
+ANSWER: B
+What will if $$5 > 3$$: print("Yes") output?
+A) Yes
+B) No
+C) Nothing
+D) Error
+ANSWER: A
+What will print(3 == 3 and 4 > 2) return?
+A) True
+B) False
+C) Error
+D) None
+ANSWER: A
+What will print(len([1, 2, 3, 4])) return?
+A) 3
+B) 4
+C) 5
+D) Error
+ANSWER: B
+What will range(3) return?
+A) A list [1, 2, 3]
+B) A list [0, 1, 2]
+C) A list [0, 1, 2, 3]
+D) An error
+ANSWER: B
+Which keyword is used to define a function in Python?
+A) def
+B) function
+C) define
+D) fun
+ANSWER: A
+Which of the following is a correct way to define a variable in Python?
+A) x = 10
+B) int x = 10
+C) variable x = 10
+D) define x = 10
+ANSWER: A
+Which of the following is NOT a characteristic of big data?
+A) Volume
+B) Variety
+C) Velocity
+D) Vocabulary
+ANSWER: D
+Which of the following is NOT a tool used in Data Science?
+A) TensorFlow
+B) PyTorch
+C) Excel
+D) Adobe Premiere
+ANSWER: D
+Which of the following is NOT a typical application of Data Science?
+A) Fraud detection
+B) Image recognition
+C) Cooking recipes
+D) Recommendation systems
+ANSWER: C
+Which of the following is NOT a valid Python data type?
+A) List
+B) Dictionary
+C) Collection
+D) Tuple
+ANSWER: C
+Which of the following is used to get user input in Python?
+A) scan()
+B) input()
+C) read()
+D) fetch()
+ANSWER: B
+Which of the following Python data types is immutable?
+A) List
+B) Dictionary
+C) Tuple
+D) Set
+ANSWER: C
+Which of the following tools is commonly used in Data Science?
+A) Photoshop
+B) Jupyter Notebook
+C) Microsoft Word
+D) PowerPoint
+ANSWER: B
+Which of these fields is Data Science closely related to?
+A) Astronomy
+B) Machine Learning
+C) Sports Coaching
+D) Philosophy
+ANSWER: B
+Which programming language is widely used in Data Science?
+A) Java
+B) C++
+C) Python
+D) HTML
+ANSWER: C
+Which symbol is used for single-line comments in Python?
+A) $$//$$
+B) $$#$$
+C) $$/*$$
+D) $$--$$
+ANSWER: B
+Which term best describes the process of finding patterns in large datasets?
+A) Video rendering
+B) Data mining
+C) Photo editing
+D) Handwriting analysis
+ANSWER: B
+Why is Data Science important?
+A) It helps create new languages
+B) It enables decision-making based on data-driven insights
+C) It replaces human thinking completely
+D) It is used only in social media
+ANSWER: B
+How do you access the value associated with a key in a dictionary?
+A) dict[key]
+B) dict.get(key)
+C) Both A and B
+D) None of the above
+ANSWER: C
+How do you create a NumPy array?
+A) np.array([1, 2, 3])
+B) np.list([1, 2, 3])
+C) numpy.array(1,2,3)
+D) new array([1, 2, 3])
+ANSWER: A
+How do you drop a column from a DataFrame?
+A) df.remove(column_name)
+B) df.drop(column_name, axis=1)
+C) df.delete(column_name)
+D) df.clear(column_name)
+ANSWER: B
+How do you import NumPy in Python?
+A) import numpy as np
+B) import np as numpy
+C) import numpy()
+D) use numpy
+ANSWER: A
+How do you import Pandas?
+A) import pandas as pd
+B) import pd as pandas
+C) import pandas()
+D) use pandas
+ANSWER: A
+How do you save a DataFrame to an Excel file?
+A) df.to_excel('file.xlsx')
+B) df.save_excel('file.xlsx')
+C) df.write_excel('file.xlsx')
+D) df.export_excel('file.xlsx')
+ANSWER: A
+What does df.shape return?
+A) Number of rows
+B) Number of columns
+C) Tuple of rows and columns
+D) Total elements
+ANSWER: C
+What does len({}) return?
+A) 0
+B) 1
+C) None
+D) Error
+ANSWER: A
+What does np.arange(5) return?
+A) $$[1, 2, 3, 4, 5]$$
+B) $$[0, 1, 2, 3, 4]$$
+C) $$[0, 1, 2, 3, 4, 5]$$
+D) None
+ANSWER: B
+What does np.max(arr) return?
+A) The smallest value in the array
+B) The largest value in the array
+C) The sum of all values
+D) The average of all values
+ANSWER: B
+What does np.zeros((2,3)) create?
+A) A 2x3 array of ones
+B) A 2x3 array of zeros
+C) A 3x2 array of zeros
+D) A list of zeros
+ANSWER: B
+What function is used to check for missing values?
+A) df.isnull()
+B) df.check_null()
+C) df.find_na()
+D) df.loc_na()
+ANSWER: A
+What function is used to display the first few rows of a DataFrame?
+A) df.first()
+B) df.show()
+C) df.head()
+D) df.top()
+ANSWER: C
+What function is used to read a CSV file in Pandas?
+A) pd.load_csv()
+B) pd.read_csv()
+C) pd.open_csv()
+D) pd.import_csv()
+ANSWER: B
+What function is used to reshape an array in NumPy?
+A) reshape()
+B) resize()
+C) reorder()
+D) convert()
+ANSWER: A
+What is a Pandas Series?
+A) A 2D table
+B) A 1D labeled array
+C) A NumPy array
+D) A dictionary
+ANSWER: B
+What is NumPy primarily used for?
+A) Text processing
+B) Numerical computing
+C) Image editing
+D) Web development
+ANSWER: B
+What is the correct syntax to create a tuple?
+A) my_tuple = (1, 2, 3)
+B) my_tuple = [1, 2, 3]
+C) my_tuple = {1, 2, 3}
+D) my_tuple = "1, 2, 3"
+ANSWER: A
+What is the key difference between a list and a tuple?
+A) Lists are immutable, tuples are mutable
+B) Lists use parentheses, tuples use square brackets
+C) Lists are mutable, tuples are immutable
+D) There is no difference
+ANSWER: C
+What is the output of $${1, 2, 3, 3, 2}$$ in Python?
+A) $${1, 2, 3, 3, 2}$$
+B) $${1, 2, 3}$$
+C) $$[1, 2, 3]$$
+D) $$(1, 2, 3)$$
+ANSWER: B
+What is the output of np.linspace(1, 5, 5)?
+A) $$[1, 2, 3, 4, 5]$$
+B) $$[1, 1.5, 2, 2.5, 3]$$
+C) $$[1, 2.5, 4]$$
+D) $$[1, 2, 3, 4]$$
+ANSWER: A
+What will my_list = [x for x in range(5)] create?
+A) $$[0, 1, 2, 3, 4]$$
+B) $$[1, 2, 3, 4, 5]$$
+C) $${0, 1, 2, 3, 4}$$
+D) $$(0, 1, 2, 3, 4)$$
+ANSWER: A
+Which data structure is used to store tabular data in Pandas?
+A) Series
+B) DataFrame
+C) Dictionary
+D) NumPy Array
+ANSWER: B
+Which function is used to find the mean of an array?
+A) np.average()
+B) np.mean()
+C) np.median()
+D) np.stats()
+ANSWER: B
+Which function is used to get basic statistical details of a DataFrame?
+A) df.describe()
+B) df.stats()
+C) df.mean()
+D) df.sum()
+ANSWER: A
+Which function is used to get the shape of a NumPy array?
+A) array.length()
+B) array.shape
+C) array.size()
+D) array.count()
+ANSWER: B
+Which method adds an item to a list?
+A) list.append(item)
+B) list.add(item)
+C) list.insert(item)
+D) list.extend(item)
+ANSWER: A
+Which of the following is a mutable data structure in Python?
+A) Tuple
+B) List
+C) String
+D) Set
+ANSWER: B
+Which of the following is NOT a valid dictionary operation?
+A) Adding a key-value pair
+B) Accessing values using a key
+C) Duplicating keys
+D) Updating values
+ANSWER: C
+Which of the following will remove an item from a set?
+A) set.pop()
+B) set.remove(value)
+C) set.discard(value)
+D) All of the above
+ANSWER: D
+How do you import Seaborn?
+A) import seaborn as sns
+B) import seaborn as sb
+C) import sns as seaborn
+D) import seaborn()
+ANSWER: A
+What does a box plot help to identify?
+A) Outliers
+B) Mean and median
+C) Quartiles
+D) All of the above
+ANSWER: D
+What does df.dropna() do in Pandas?
+A) Removes rows containing missing values
+B) Replaces NaN values with zeros
+C) Removes duplicate values
+D) None of the above
+ANSWER: A
+What does df.duplicated() do in Pandas?
+A) Removes duplicate rows
+B) Returns a Boolean series indicating duplicate rows
+C) Replaces duplicate values with NaN
+D) Sorts the DataFrame
+ANSWER: B
+What does df.info() display?
+A) Basic statistics like mean, median, and mode
+B) Column names, data types, and non-null counts
+C) Data visualization plots
+D) Missing values only
+ANSWER: B
+What does hue parameter in Seaborn functions control?
+A) The color of a single plot
+B) The grouping of data points by a categorical variable
+C) The width of the plot
+D) The font size of labels
+ANSWER: B
+What does sns.boxplot() visualize?
+A) Mean and standard deviation
+B) Relationship between categorical and numerical data
+C) Frequency distribution
+D) Line trends over time
+ANSWER: B
+What does the standard deviation measure?
+A) The average of a dataset
+B) The spread of data points from the mean
+C) The most frequently occurring value
+D) The middle value in a dataset
+ANSWER: B
+What function is used in Pandas to check for missing values?
+A) df.isna()
+B) df.isnull()
+C) Both A and B
+D) df.missing()
+ANSWER: C
+What is the primary purpose of Seaborn?
+A) Machine learning
+B) Advanced data visualization
+C) Statistical modeling
+D) Image processing
+ANSWER: B
+What is the process of converting data into a more useful format called?
+A) Data transformation
+B) Data extraction
+C) Data filtering
+D) Data mining
+ANSWER: A
+What is the purpose of a histogram in EDA?
+A) To visualize the frequency distribution of data
+B) To compare multiple variables
+C) To analyze categorical data
+D) To replace missing values
+ANSWER: A
+What is the purpose of a scatter plot?
+A) To show relationships between two variables
+B) To display frequency distributions
+C) To represent categorical data
+D) To summarize a dataset
+ANSWER: A
+What is the purpose of Exploratory Data Analysis (EDA)?
+A) To summarize dataset characteristics
+B) To create predictive models
+C) To automate machine learning
+D) To remove all missing values
+ANSWER: A
+What is the purpose of one-hot encoding?
+A) To remove duplicate values
+B) To convert categorical data into numerical format
+C) To handle missing values
+D) To scale numeric data
+ANSWER: B
+What kind of plot does sns.violinplot() create?
+A) A density distribution with quartiles
+B) A histogram
+C) A correlation matrix
+D) A pie chart
+ANSWER: A
+What type of visualization does sns.heatmap() create?
+A) Line chart
+B) Bar chart
+C) Correlation matrix
+D) Pie chart
+ANSWER: C
+Which argument is used in Seaborn to define the dataset?
+A) data=
+B) dataset=
+C) values=
+D) df=
+ANSWER: A
+Which function in Matplotlib is used to plot a histogram?
+A) plt.hist()
+B) plt.bar()
+C) plt.plot()
+D) plt.pie()
+ANSWER: A
+Which function is used to create a bar plot in Seaborn?
+A) sns.barplot()
+B) sns.boxplot()
+C) sns.histplot()
+D) sns.violinplot()
+ANSWER: A
+Which function is used to create a pair plot in Seaborn?
+A) sns.pairplot()
+B) sns.scatterplot()
+C) sns.jointplot()
+D) sns.relplot()
+ANSWER: A
+Which function is used to create a scatter plot in Seaborn?
+A) sns.scatterplot()
+B) sns.plot()
+C) sns.histplot()
+D) sns.lineplot()
+ANSWER: A
+Which function provides basic descriptive statistics for a Pandas DataFrame?
+A) df.describe()
+B) df.info()
+C) df.summary()
+D) df.stats()
+ANSWER: A
+Which Matplotlib function is used to display a line plot?
+A) plt.lineplot()
+B) plt.plot()
+C) plt.scatter()
+D) plt.linegraph()
+ANSWER: B
+Which of the following functions can be used to replace values in a DataFrame?
+A) df.replace()
+B) df.modify()
+C) df.fillna()
+D) df.transform()
+ANSWER: A
+Which of the following is a method to replace missing values with a specific value in Pandas?
+A) df.dropna()
+B) df.fillna(value)
+C) df.replace_na(value)
+D) df.missing(value)
+ANSWER: B
+Which of the following is an example of outlier detection?
+A) Box plot analysis
+B) Z-score method
+C) IQR (Interquartile Range) method
+D) All of the above
+ANSWER: D
+Which of the following is NOT a measure of central tendency?
+A) Mean
+B) Median
+C) Standard deviation
+D) Mode
+ANSWER: C
+Which of the following methods can be used for feature scaling?
+A) Min-Max Scaling
+B) Standardization (Z-score normalization)
+C) Log transformation
+D) All of the above
+ANSWER: D
+Which of the following methods can be used to handle missing values in a dataset?
+A) Removing rows with missing values
+B) Filling missing values with the mean or median
+C) Using interpolation techniques
+D) All of the above
+ANSWER: D
+A larger sample size generally leads to:
+A) A higher p-value
+B) More accurate population estimates
+C) More Type I errors
+D) No impact on statistical inference
+ANSWER: B
+A Type I error occurs when:
+A) A true null hypothesis is rejected
+B) A false null hypothesis is accepted
+C) A correct conclusion is drawn
+D) The p-value is high
+ANSWER: A
+If a dataset has an even number of observations, how is the median calculated?
+A) The middle value
+B) The sum of all values divided by the number of values
+C) The average of the two middle values
+D) The mode of the dataset
+ANSWER: C
+If all values in a dataset are identical, what is the standard deviation?
+A) 0
+B) 1
+C) Equal to the mean
+D) Undefined
+ANSWER: A
+If an event has a probability of 1, what does this mean?
+A) The event is impossible
+B) The event is certain to happen
+C) The event has a 50% chance of occurring
+D) The event has a 10% chance of occurring
+ANSWER: B
+If P(A) = 0.3 and P(B) = 0.5, and A and B are independent, what is P(A and B)?
+A) 0.8
+B) 0.15
+C) 0.6
+D) 0.3
+ANSWER: B
+If the p-value is less than 0.05, what should be done?
+A) Accept the null hypothesis
+B) Reject the null hypothesis
+C) Redo the test
+D) Increase the sample size
+ANSWER: B
+If two events cannot occur together, they are called:
+A) Independent events
+B) Mutually exclusive events
+C) Dependent events
+D) Complementary events
+ANSWER: B
+The mean and standard deviation fully define which probability distribution?
+A) Binomial distribution
+B) Poisson distribution
+C) Normal distribution
+D) Geometric distribution
+ANSWER: C
+The normal distribution is:
+A) Skewed to the right
+B) Skewed to the left
+C) Symmetrical
+D) A uniform distribution
+ANSWER: C
+What does a 95% confidence interval mean?
+A) The sample mean is exactly 95% correct
+B) The population mean is within the interval 95% of the time
+C) The hypothesis test is always correct
+D) The sample data contains 95% of the population
+ANSWER: B
+What does a high standard deviation indicate?
+A) Data points are close to the mean
+B) Data points are spread out from the mean
+C) The data is normally distributed
+D) The dataset contains no outliers
+ANSWER: B
+What does a p-value represent?
+A) The probability of making a correct decision
+B) The probability of observing data as extreme as the sample, assuming the null hypothesis is true
+C) The sample mean
+D) The confidence level
+ANSWER: B
+What does the interquartile range (IQR) measure?
+A) The difference between the largest and smallest values
+B) The middle 50% of the data
+C) The most frequent value
+D) The total number of values
+ANSWER: B
+What does the mode represent in a dataset?
+A) The sum of all values
+B) The most frequently occurring value
+C) The middle value
+D) The spread of the data
+ANSWER: B
+What is the formula for variance?
+A) (Sum of squared differences from the mean) / (Number of observations - 1)
+B) Sum of all values divided by the total count
+C) Middle value of an ordered dataset
+D) Most frequently occurring value
+ANSWER: A
+What is the mean of the data set $${2, 4, 6, 8, 10}$$?
+A) 5
+B) 6
+C) 7
+D) 8
+ANSWER: B
+What is the most common confidence level used in hypothesis testing?
+A) $$50\%$$
+B) $$75\%$$
+C) $$90\%$$
+D) $$95\%$$
+ANSWER: D
+What is the null hypothesis in hypothesis testing?
+A) A statement that there is an effect or difference
+B) A statement that there is no effect or difference
+C) A statement that data is normally distributed
+D) A statement that data contains no outliers
+ANSWER: B
+What is the probability of getting heads in a fair coin toss?
+A) 0
+B) 0.25
+C) 0.5
+D) 1
+ANSWER: C
+What is the probability of rolling a 4 on a fair six-sided die?
+A) 1/2
+B) 1/3
+C) 1/6
+D) 1/12
+ANSWER: C
+What is the purpose of inferential statistics?
+A) To summarize and describe data
+B) To make predictions about a population from a sample
+C) To organize data into tables
+D) To measure exact population parameters
+ANSWER: B
+What is the range of the dataset $${5, 12, 18, 24, 30}$$?
+A) 5
+B) 12
+C) 25
+D) 30
+ANSWER: C
+What is the sum of probabilities of all possible outcomes of an event?
+A) 0.5
+B) 1
+C) 10
+D) Undefined
+ANSWER: B
+Which confidence interval is wider?
+A) $$90\%$$
+B) $$95\%$$
+C) $$99\%$$
+D) $$50\%$$
+ANSWER: C
+Which of the following is a measure of dispersion?
+A) Mean
+B) Median
+C) Variance
+D) Mode
+ANSWER: C
+Which of the following is NOT a measure of central tendency?
+A) Mean
+B) Median
+C) Mode
+D) Range
+ANSWER: D
+Which of the following is NOT a property of probability?
+A) Probabilities must be between 0 and 1
+B) The probability of an impossible event is 1
+C) The sum of probabilities of all possible outcomes is 1
+D) Probabilities represent the likelihood of an event occurring
+ANSWER: B
+Which of the following tests is used to compare means between two groups?
+A) Chi-square test
+B) T-test
+C) ANOVA
+D) Regression analysis
+ANSWER: B
+Which probability distribution is used for modeling the number of successes in a fixed number of trials?
+A) Binomial distribution
+B) Normal distribution
+C) Poisson distribution
+D) Exponential distribution
+ANSWER: A
+A model that predicts all cases as negative will have a recall of:
+A) 0
+B) 1
+C) $$50\%$$
+D) Undefined
+ANSWER: A
+If a model has high precision but low recall, what does it mean?
+A) The model predicts too many false positives
+B) The model predicts too many false negatives
+C) The model has a balanced accuracy
+D) The model performs well in all cases
+ANSWER: B
+In a confusion matrix, false negatives represent:
+A) Incorrectly classified positive instances
+B) Incorrectly classified negative instances
+C) Correctly classified positive instances
+D) Correctly classified negative instances
+ANSWER: A
+In Logistic Regression, what function is used to transform predictions into probabilities?
+A) ReLU function
+B) Softmax function
+C) Sigmoid function
+D) Linear function
+ANSWER: C
+In the equation of a simple linear regression model, y = mx + b, what does m represent?
+A) The intercept
+B) The slope of the line
+C) The dependent variable
+D) The input feature
+ANSWER: B
+In which type of Machine Learning does the model learn from labeled data?
+A) Supervised Learning
+B) Unsupervised Learning
+C) Reinforcement Learning
+D) Semi-Supervised Learning
+ANSWER: A
+Logistic Regression is primarily used for:
+A) Regression tasks
+B) Classification tasks
+C) Clustering tasks
+D) Dimensionality reduction
+ANSWER: B
+What does accuracy measure in a classification model?
+A) The percentage of correctly predicted instances
+B) The ability to correctly predict positive instances
+C) The balance between precision and recall
+D) The difference between predicted and actual values
+ANSWER: A
+What does overfitting mean in Machine Learning?
+A) The model performs well on training data but poorly on new data
+B) The model has too few parameters
+C) The model ignores training data
+D) The model is too simple to capture patterns in the data
+ANSWER: A
+What does precision measure?
+A) The proportion of positive predictions that are actually correct
+B) The proportion of actual positives that were correctly identified
+C) The ratio of false positives to false negatives
+D) The percentage of incorrect predictions
+ANSWER: A
+What does recall (sensitivity) measure?
+A) The percentage of positive cases that were correctly identified
+B) The percentage of negative cases that were correctly identified
+C) The proportion of false positives
+D) The difference between accuracy and precision
+ANSWER: A
+What is a feature in Machine Learning?
+A) A program that runs machine learning models
+B) A characteristic or attribute used as input for a model
+C) The final output of a model
+D) A training algorithm
+ANSWER: B
+What is Machine Learning?
+A) A way to program computers using only conditional statements
+B) A subset of AI that allows computers to learn from data
+C) A process of manually labeling data for analysis
+D) A method for storing large amounts of data
+ANSWER: B
+What is the difference between classification and regression?
+A) Classification predicts numerical values, regression predicts categories
+B) Regression predicts numerical values, classification predicts categories
+C) Both predict continuous values
+D) Classification uses linear models, regression does not
+ANSWER: B
+What is the effect of a highly imbalanced dataset on accuracy?
+A) It improves accuracy
+B) It makes accuracy an unreliable metric
+C) It has no effect on accuracy
+D) It increases precision
+ANSWER: B
+What is the formula for the F1 Score?
+A) $$2 × (Precision × Recall) / (Precision + Recall)$$
+B) $$(Precision + Recall) / 2$$
+C) $$Precision - Recall$$
+D) $$Accuracy / Recall$$
+ANSWER: A
+What is the main objective of Linear Regression?
+A) Classify data into categories
+B) Find relationships between input and output variables
+C) Cluster similar data points
+D) Reduce the dimensionality of data
+ANSWER: B
+What is the range of predicted probabilities in Logistic Regression?
+A) -∞ to +∞
+B) 0 to 1
+C) -1 to 1
+D) Any real number
+ANSWER: B
+What type of learning involves an agent interacting with an environment to maximize rewards?
+A) Supervised Learning
+B) Unsupervised Learning
+C) Reinforcement Learning
+D) Deep Learning
+ANSWER: C
+When both precision and recall are important, which metric should be used?
+A) Accuracy
+B) F1 Score
+C) Sensitivity
+D) Specificity
+ANSWER: B
+Which algorithm is best for predicting continuous values?
+A) K-Means
+B) Logistic Regression
+C) Linear Regression
+D) Random Forest Classification
+ANSWER: C
+Which algorithm is commonly used for clustering?
+A) K-Means
+B) Decision Tree
+C) Linear Regression
+D) Naïve Bayes
+ANSWER: A
+Which Machine Learning approach is used for pattern detection in unlabeled data?
+A) Supervised Learning
+B) Unsupervised Learning
+C) Semi-Supervised Learning
+D) Rule-Based Learning
+ANSWER: B
+Which metric should be used when false negatives are more costly than false positives?
+A) Precision
+B) Recall
+C) Accuracy
+D) F1 Score
+ANSWER: B
+Which of the following assumptions is NOT required for Linear Regression?
+A) Linearity
+B) Independence of errors
+C) Presence of outliers
+D) Homoscedasticity (constant variance of errors)
+ANSWER: C
+Which of the following best describes Deep Learning?
+A) A rule-based decision-making system
+B) A subset of Machine Learning using neural networks
+C) A statistical method for probability estimation
+D) A technique used only in supervised learning
+ANSWER: B
+Which of the following is a regression algorithm?
+A) Decision Tree
+B) K-Means
+C) Linear Regression
+D) Naïve Bayes
+ANSWER: C
+Which of the following is an example of a classification problem?
+A) Predicting house prices
+B) Identifying spam emails
+C) Estimating the stock market trends
+D) Forecasting daily temperatures
+ANSWER: B
+Which of the following is an example of Unsupervised Learning?
+A) Spam email classification
+B) Customer segmentation
+C) Predicting house prices
+D) Sentiment analysis
+ANSWER: B
+Which of the following is NOT a type of Machine Learning?
+A) Supervised Learning
+B) Unsupervised Learning
+C) Reinforcement Learning
+D) Structured Learning
+ANSWER: D
+How are new cluster centers updated in K-Means?
+A) Randomly assigned again
+B) Using the median of all data points in the cluster
+C) Using the mean of all data points in the cluster
+D) By selecting the point closest to the centroid
+ANSWER: C
+How does a Random Forest improve classification performance?
+A) By using a single deep Decision Tree
+B) By averaging the predictions of multiple Decision Trees
+C) By using a clustering algorithm before classification
+D) By using PCA before building the model
+ANSWER: B
+In a Decision Tree, what is the purpose of the "root node"?
+A) It represents the final decision
+B) It is the first node where the dataset is split
+C) It stores all the leaf nodes
+D) It contains only categorical data
+ANSWER: B
+In K-Means clustering, what does "K" represent?
+A) The number of features
+B) The number of data points
+C) The number of clusters
+D) The number of iterations
+ANSWER: C
+What distance metric is commonly used in K-Means clustering?
+A) Cosine similarity
+B) Manhattan distance
+C) Euclidean distance
+D) Pearson correlation
+ANSWER: C
+What does Gini Impurity measure?
+A) The probability of a randomly chosen element being misclassified
+B) The correlation between features
+C) The difference between predicted and actual values
+D) The likelihood of overfitting
+ANSWER: A
+What does Principal Component Analysis (PCA) do?
+A) Groups similar data points
+B) Finds the best decision boundary for classification
+C) Transforms high-dimensional data into fewer dimensions
+D) Predicts future data points
+ANSWER: C
+What is "bagging" in the context of Random Forest?
+A) A technique for feature scaling
+B) A method of using multiple samples to train models
+C) A clustering method
+D) A regularization technique
+ANSWER: B
+What is a "leaf node" in a Decision Tree?
+A) The starting point of the tree
+B) A node with no further splits
+C) A decision that needs further splitting
+D) A node that always contains numerical data
+ANSWER: B
+What is a "principal component" in PCA?
+A) A new feature created from a combination of existing features
+B) A cluster of similar data points
+C) A supervised learning label
+D) A centroid in K-Means
+ANSWER: A
+What is a Decision Tree used for?
+A) Regression only
+B) Classification only
+C) Both classification and regression
+D) Clustering
+ANSWER: C
+What is a disadvantage of K-Means clustering?
+A) It only works with categorical data
+B) It is sensitive to the initial choice of centroids
+C) It cannot handle large datasets
+D) It does not require selecting the number of clusters beforehand
+ANSWER: B
+What is the first step in K-Means clustering?
+A) Assign each data point to a random cluster
+B) Select K random centroids
+C) Compute the Euclidean distance between all points
+D) Merge similar clusters
+ANSWER: B
+What is the goal of Dimensionality Reduction?
+A) To remove unnecessary features while retaining information
+B) To increase the number of dimensions in a dataset
+C) To add more features to improve classification
+D) To replace missing values in datasets
+ANSWER: A
+What is the main advantage of PCA?
+A) It improves model interpretability by reducing dimensions
+B) It guarantees 100% accuracy in classification
+C) It replaces clustering algorithms
+D) It only works for categorical data
+ANSWER: A
+What is the main difference between K-Means and Hierarchical clustering?
+A) K-Means is iterative, while Hierarchical clustering builds a tree structure
+B) Hierarchical clustering is supervised, while K-Means is unsupervised
+C) K-Means is based on probability, while Hierarchical clustering is not
+D) K-Means only works with numerical data, while Hierarchical clustering does not
+ANSWER: A
+What is the main goal of clustering?
+A) To classify data into predefined categories
+B) To group similar data points together
+C) To reduce dimensionality
+D) To increase accuracy in supervised learning
+ANSWER: B
+What is the main purpose of a dendrogram in Hierarchical Clustering?
+A) To visualize how clusters are formed
+B) To determine the best features for clustering
+C) To reduce dimensionality
+D) To classify new data points
+ANSWER: A
+When applying PCA, how do you decide how many components to keep?
+A) By selecting the first three components
+B) By choosing components that explain most of the variance
+C) By keeping all components
+D) By randomly selecting components
+ANSWER: B
+Which algorithm is most commonly used for clustering?
+A) K-Means
+B) Logistic Regression
+C) Decision Trees
+D) Naïve Bayes
+ANSWER: A
+Which criterion is commonly used to split nodes in a Decision Tree?
+A) Mean Squared Error (MSE)
+B) Entropy or Gini Index
+C) Pearson Correlation
+D) Euclidean Distance
+ANSWER: B
+Which mathematical concept is used in PCA?
+A) Eigenvalues and Eigenvectors
+B) Euclidean distance
+C) Probability distributions
+D) Decision trees
+ANSWER: A
+Which of the following is a disadvantage of PCA?
+A) It does not work with numerical data
+B) It can remove important features
+C) It always increases accuracy
+D) It cannot handle missing values
+ANSWER: B
+Which of the following is a drawback of using Decision Trees?
+A) They are difficult to interpret
+B) They tend to overfit on training data
+C) They require deep neural networks
+D) They cannot handle categorical data
+ANSWER: B
+Which of the following is a popular Dimensionality Reduction technique?
+A) Decision Trees
+B) Principal Component Analysis (PCA)
+C) K-Means
+D) Support Vector Machines (SVM)
+ANSWER: B
+Which of the following is NOT a benefit of Random Forest?
+A) High accuracy
+B) Reduced overfitting
+C) Works well with large datasets
+D) Requires fewer training samples than Decision Trees
+ANSWER: D
+Which of the following is NOT an alternative to PCA?
+A) Linear Discriminant Analysis (LDA)
+B) Autoencoders
+C) Singular Value Decomposition (SVD)
+D) Random Forest
+ANSWER: D
+Which type of clustering forms a tree-like structure?
+A) K-Means
+B) Agglomerative Hierarchical Clustering
+C) DBSCAN
+D) Random Forest
+ANSWER: B
+Which type of datasets benefit the most from PCA?
+A) High-dimensional datasets
+B) Small datasets with few variables
+C) Unstructured text data
+D) Binary classification datasets
+ANSWER: A
+Why does a Random Forest reduce overfitting compared to a Decision Tree?
+A) It selects the best tree and discards the rest
+B) It uses multiple trees and averages predictions
+C) It only works with categorical data
+D) It has a deeper structure than Decision Trees
+ANSWER: B
+A time series that fluctuates around a constant mean with no trend or seasonality is called a:
+A) Stationary time series
+B) Non-stationary time series
+C) Seasonal time series
+D) Deterministic time series
+ANSWER: A
+Exponential smoothing is primarily used for:
+A) Forecasting time series data
+B) Clustering large datasets
+C) Reducing data dimensionality
+D) Identifying correlation between variables
+ANSWER: A
+In a time series plot, a long-term upward or downward movement is called:
+A) Trend
+B) Seasonality
+C) Irregularity
+D) Cycle
+ANSWER: A
+In an ARIMA(p,d,q) model, what does "d" represent?
+A) Number of autoregressive terms
+B) Number of moving average terms
+C) Degree of differencing needed to make the series stationary
+D) Length of seasonality
+ANSWER: C
+Moving averages are used in time series analysis to:
+A) Identify long-term trends and smooth fluctuations
+B) Increase the volatility of data
+C) Remove seasonality effects permanently
+D) Predict future stock market prices with 100% accuracy
+ANSWER: A
+The Holt-Winters method is useful for time series data that contains:
+A) Only random fluctuations
+B) Trend and seasonality
+C) No patterns at all
+D) Outliers only
+ANSWER: B
+The main difference between Simple Moving Average (SMA) and Weighted Moving Average (WMA) is:
+A) WMA gives more weight to recent data points
+B) SMA is always more accurate
+C) WMA assigns equal weight to all data points
+D) SMA is computationally more complex than WMA
+ANSWER: A
+The Simple Moving Average (SMA) of a time series is calculated by:
+A) Taking the cumulative sum of all data points
+B) Averaging a fixed number of past data points
+C) Finding the weighted average of data points
+D) Using exponential smoothing
+ANSWER: B
+What does the "AR" component in an ARIMA model represent?
+A) Moving average
+B) Autoregressive component
+C) Smoothing parameter
+D) Seasonality factor
+ANSWER: B
+What does the "MA" term in ARIMA represent?
+A) Moving Average component
+B) Model Accuracy
+C) Mean Adjustment
+D) Moving Aggregation
+ANSWER: A
+What does the ARIMA model stand for?
+A) Auto-Regressive Integrated Moving Average
+B) Autocorrelation Residual Integrated Moving Average
+C) Automatic Regression Inference Model Analysis
+D) Averaged Regression Indexed Model Application
+ANSWER: A
+What does the term “seasonality” refer to in time series data?
+A) A long-term increasing or decreasing pattern
+B) Short-term fluctuations due to periodic effects
+C) Random variations that cannot be predicted
+D) Noise introduced by missing values
+ANSWER: B
+What is a major limitation of a simple moving average?
+A) It cannot be used for forecasting
+B) It is not useful for smoothing data
+C) It gives equal weight to all observations
+D) It removes all seasonality from data
+ANSWER: C
+What is backtesting in time series forecasting?
+A) Evaluating a model's performance on past data
+B) Using multiple models for ensemble forecasting
+C) Performing feature selection before applying ARIMA
+D) Identifying causation in time series data
+ANSWER: A
+What is overfitting in time series forecasting?
+A) When the model performs well on training data but poorly on new data
+B) When the model does not capture any patterns in the data
+C) When too few data points are used for training
+D) When forecasting errors are minimized
+ANSWER: A
+What is the difference between in-sample and out-of-sample forecasting?
+A) In-sample forecasting uses historical data, while out-of-sample predicts future values
+B) Out-of-sample forecasting is always more accurate
+C) In-sample forecasting is used for classification problems
+D) Out-of-sample forecasting only applies to ARIMA models
+ANSWER: A
+What is the key advantage of exponential smoothing over simple moving averages?
+A) It gives more weight to recent observations
+B) It removes all seasonality
+C) It does not require any parameters
+D) It performs better on stationary data
+ANSWER: A
+What is the main advantage of using machine learning models for time series forecasting?
+A) They can capture complex patterns in the data
+B) They always outperform traditional models
+C) They do not require historical data
+D) They eliminate randomness in data
+ANSWER: A
+What is the main goal of time series forecasting?
+A) To determine relationships between variables
+B) To predict future values based on past data
+C) To reduce dimensionality in large datasets
+D) To classify categorical data
+ANSWER: B
+What is the main purpose of time series analysis?
+A) To classify categorical data
+B) To understand patterns and make future predictions
+C) To determine cause-and-effect relationships
+D) To reduce dimensionality
+ANSWER: B
+What is the primary assumption of an ARIMA model?
+A) Data must be normally distributed
+B) Data must be stationary
+C) Data must have no missing values
+D) Data must be periodic
+ANSWER: B
+What is the purpose of differencing in time series analysis?
+A) To remove seasonality
+B) To make the data stationary
+C) To smooth the data completely
+D) To reduce forecast errors
+ANSWER: B
+When choosing a time series forecasting model, which factor is MOST important?
+A) Model complexity
+B) Forecasting accuracy
+C) Number of independent variables
+D) Choice of programming language
+ANSWER: B
+Which metric is commonly used to compare time series models?
+A) Mean Squared Error (MSE)
+B) F1-score
+C) ROC-AUC
+D) Adjusted R-squared
+ANSWER: A
+Which of the following industries commonly use time series forecasting?
+A) Finance and stock market analysis
+B) Weather prediction
+C) Sales forecasting
+D) All of the above
+ANSWER: D
+Which of the following is a common performance metric for time series forecasting?
+A) R-squared
+B) Mean Absolute Error (MAE)
+C) Confusion Matrix
+D) Precision
+ANSWER: B
+Which of the following is NOT a component of time series data?
+A) Trend
+B) Seasonality
+C) Regression
+D) Randomness
+ANSWER: C
+Which of the following is NOT a type of exponential smoothing method?
+A) Simple exponential smoothing
+B) Holt’s linear trend method
+C) Holt-Winters method
+D) Logistic exponential smoothing
+ANSWER: D
+Which of the following statements about moving averages is TRUE?
+A) A longer moving average reacts more quickly to changes in data
+B) A shorter moving average smooths fluctuations more than a longer one
+C) A moving average helps detect trends in time series data
+D) A moving average is only applicable to non-seasonal data
+ANSWER: C
+Why is it important to check residuals in a time series model?
+A) To ensure the errors are randomly distributed
+B) To remove seasonality effects
+C) To identify missing data points
+D) To improve classification accuracy
+ANSWER: A
+How does data augmentation help CNN models?
+A) It artificially increases the training data size
+B) It decreases the number of training examples
+C) It simplifies the convolution process
+D) It removes irrelevant image features
+ANSWER: A
+In a CNN, what is the primary function of a convolutional layer?
+A) To apply filters to input data and extract features
+B) To fully connect neurons across layers
+C) To convert images into text format
+D) To store weight values
+ANSWER: A
+In a fully connected neural network, each neuron in one layer is connected to:
+A) Only one neuron in the next layer
+B) Every neuron in the next layer
+C) The neuron with the highest activation in the previous layer
+D) The output layer only
+ANSWER: B
+In Keras, which method is used to add layers to a neural network?
+A) model.connect()
+B) model.append()
+C) model.add()
+D) model.insert()
+ANSWER: C
+The sigmoid activation function outputs values in the range:
+A) $$(-∞, ∞)$$
+B) $$(0,1)$$
+C) $$(-1,1)$$
+D) $$(0,∞)$$
+ANSWER: B
+What does the .compile() method do in a Keras model?
+A) It adds new layers to the model
+B) It prepares the model for training by specifying loss and optimizer
+C) It initializes the dataset
+D) It converts the model to TensorFlow format
+ANSWER: B
+What does the term "stride" refer to in CNNs?
+A) The number of steps taken when applying a filter
+B) The depth of the convolutional layer
+C) The output of the fully connected layer
+D) The function of the activation layer
+ANSWER: A
+What is a key feature of TensorFlow?
+A) It does not support GPU acceleration
+B) It allows automatic differentiation for backpropagation
+C) It is only used for image processing
+D) It does not support deep learning models
+ANSWER: B
+What is a neural network primarily designed to do?
+A) Perform traditional statistical analysis
+B) Mimic the way the human brain processes information
+C) Solve only linear problems
+D) Execute rule-based programming
+ANSWER: B
+What is an application of CNNs in real-world scenarios?
+A) Handwritten digit recognition
+B) Spam email detection
+C) Weather prediction
+D) Fraud detection in banking
+ANSWER: A
+What is backpropagation used for in a neural network?
+A) Making forward predictions
+B) Updating weights by minimizing loss
+C) Increasing the number of hidden layers
+D) Reducing model complexity
+ANSWER: B
+What is the main drawback of the ReLU activation function?
+A) It only outputs values between 0 and 1
+B) It can cause dead neurons due to negative values
+C) It cannot be used for classification tasks
+D) It requires more computational power than other functions
+ANSWER: B
+What is the main purpose of a convolutional neural network (CNN)?
+A) Predicting time series data
+B) Analyzing tabular data
+C) Processing and classifying images
+D) Reducing overfitting in regression models
+ANSWER: C
+What is the primary advantage of using Keras?
+A) It is lower-level and requires more manual coding
+B) It is more complex than TensorFlow
+C) It provides a user-friendly interface for building neural networks
+D) It does not support deep learning models
+ANSWER: C
+What is the purpose of an activation function in a neural network?
+A) To determine the structure of the network
+B) To introduce non-linearity into the model
+C) To train the neural network
+D) To reduce the number of neurons
+ANSWER: B
+What is the role of pooling layers in CNNs?
+A) To apply activation functions
+B) To reduce spatial dimensions and retain important features
+C) To increase the size of input data
+D) To remove noisy data points
+ANSWER: B
+What is the role of the loss function in deep learning?
+A) To update the model architecture
+B) To compute the difference between actual and predicted values
+C) To increase training time
+D) To remove redundant layers
+ANSWER: B
+What is transfer learning in deep learning?
+A) Training a model from scratch
+B) Using a pre-trained model on a new task
+C) Using CNNs only for classification tasks
+D) Reducing the number of hidden layers in a neural network
+ANSWER: B
+What type of problems can neural networks solve effectively?
+A) Only regression problems
+B) Only classification problems
+C) Both regression and classification problems
+D) Only unsupervised learning problems
+ANSWER: C
+Which activation function is commonly used in hidden layers of deep neural networks?
+A) Sigmoid
+B) ReLU
+C) Softmax
+D) Linear
+ANSWER: B
+Which activation function is most prone to the vanishing gradient problem?
+A) ReLU
+B) Sigmoid
+C) Leaky ReLU
+D) Swish
+ANSWER: B
+Which dataset is commonly used for benchmarking CNN models?
+A) MNIST
+B) Titanic
+C) UCI Wine Dataset
+D) Boston Housing Dataset
+ANSWER: A
+Which deep learning framework is developed by Google?
+A) PyTorch
+B) TensorFlow
+C) Caffe
+D) Theano
+ANSWER: B
+Which framework is widely used for building CNNs?
+A) Keras
+B) Scikit-learn
+C) Pandas
+D) Tableau
+ANSWER: A
+Which function is used in Keras to train a model?
+A) model.train()
+B) model.fit()
+C) model.compile()
+D) model.predict()
+ANSWER: B
+Which of the following is an advantage of using GPUs for deep learning?
+A) GPUs can perform complex calculations faster than CPUs
+B) GPUs consume less power than CPUs
+C) GPUs have larger memory than CPUs
+D) GPUs reduce the need for backpropagation
+ANSWER: A
+Which of the following is NOT a commonly used optimizer in deep learning?
+A) Adam
+B) RMSprop
+C) Gradient Descent
+D) k-Nearest Neighbors
+ANSWER: D
+Which of the following is the basic unit of a neural network?
+A) Neuron
+B) Perceptron
+C) Synapse
+D) Activation function
+ANSWER: A
+Which of the following techniques helps reduce overfitting in CNNs?
+A) Increasing the number of layers indefinitely
+B) Using dropout layers
+C) Removing activation functions
+D) Ignoring pooling layers
+ANSWER: B
+Which pooling technique is commonly used in CNNs?
+A) Mean pooling
+B) Max pooling
+C) Min pooling
+D) Random pooling
+ANSWER: B
+GPT models are primarily used for:
+A) Image classification
+B) Generating human-like text
+C) Speech recognition
+D) Text summarization only
+ANSWER: B
+In NLP, what is fine-tuning?
+A) Adjusting a pre-trained model on a specific task
+B) Training a model from scratch
+C) Removing stopwords from text
+D) Reducing the dataset size
+ANSWER: A
+In sentiment analysis, a negative sentiment score means:
+A) The text has a negative opinion or emotion
+B) The text is not related to NLP
+C) The text has no meaning
+D) The text contains only stopwords
+ANSWER: A
+In sentiment analysis, a neutral sentiment means:
+A) The text is neither positive nor negative
+B) The text contains no words
+C) The text has been misclassified
+D) The text is highly positive
+ANSWER: A
+In tokenization, breaking a sentence into words is called:
+A) Sentence tokenization
+B) Word tokenization
+C) Character tokenization
+D) N-gram tokenization
+ANSWER: B
+Stemming and lemmatization are used to:
+A) Translate text into another language
+B) Convert words to their root form
+C) Detect sentiment in a text
+D) Extract named entities from text
+ANSWER: B
+The main advantage of word embeddings over one-hot encoding is:
+A) One-hot encoding is faster
+B) Word embeddings capture word relationships and meaning
+C) One-hot encoding uses less memory
+D) Word embeddings do not require training
+ANSWER: B
+Transformers use self-attention to:
+A) Focus on important parts of input text
+B) Ignore all stopwords in a sentence
+C) Remove punctuation from text
+D) Generate random embeddings
+ANSWER: A
+What does GPT stand for in NLP?
+A) Generalized Pre-trained Transformer
+B) Generated Predictive Tokens
+C) Graph-based Processing Tool
+D) Global Processing Transformer
+ANSWER: A
+What does NLP stand for?
+A) Natural Learning Processing
+B) Neural Linguistic Programming
+C) Natural Language Processing
+D) Neural Language Prediction
+ANSWER: C
+What does the term cosine similarity measure in NLP?
+A) The number of characters in a word
+B) The similarity between two word vectors
+C) The frequency of a word in a document
+D) The number of sentences in a paragraph
+ANSWER: B
+What is a key advantage of BERT over previous NLP models?
+A) It processes text in a single direction only
+B) It captures word meaning in both left and right contexts
+C) It only works for short text documents
+D) It does not require training
+ANSWER: B
+What is sentiment analysis used for?
+A) Identifying named entities in text
+B) Detecting the emotion or opinion in a text
+C) Summarizing large documents
+D) Translating text from one language to another
+ANSWER: B
+What is the difference between stemming and lemmatization?
+A) Lemmatization provides the root word based on dictionary meaning, while stemming just cuts off suffixes
+B) Stemming uses deep learning, while lemmatization does not
+C) Lemmatization removes stopwords, while stemming does not
+D) Stemming is only used for text summarization
+ANSWER: A
+What is the full form of BERT in NLP?
+A) Bidirectional Encoder Representations from Transformers
+B) Basic Encoding for Recursive Text
+C) Bayesian Encoding for Robust Text
+D) Binary Encoder for Real-time Translation
+ANSWER: A
+What is the key innovation behind Transformer models?
+A) Recurrent connections between neurons
+B) Attention mechanisms
+C) Feature scaling
+D) Bag-of-Words representation
+ANSWER: B
+What is the main purpose of tokenization in NLP?
+A) To split text into smaller meaningful units
+B) To remove punctuation from text
+C) To translate text from one language to another
+D) To analyze the sentiment of a text
+ANSWER: A
+What is the purpose of removing stopwords in text preprocessing?
+A) To increase text length
+B) To remove unnecessary words that do not add meaning
+C) To change words to their root forms
+D) To perform machine translation
+ANSWER: B
+Which deep learning architecture powers models like BERT and GPT?
+A) CNN
+B) LSTM
+C) Transformer
+D) Decision Trees
+ANSWER: C
+Which NLP model is commonly used for text summarization?
+A) CNN
+B) BERT
+C) Logistic Regression
+D) k-Means Clustering
+ANSWER: B
+Which NLP preprocessing technique is used to convert words into lowercase?
+A) Tokenization
+B) Normalization
+C) Lemmatization
+D) Stemming
+ANSWER: B
+Which NLP technique helps group similar words together based on their context?
+A) Named Entity Recognition
+B) Word Embeddings
+C) Stemming
+D) Lemmatization
+ANSWER: B
+Which of the following is a real-world application of NLP?
+A) Spam detection
+B) Machine translation
+C) Chatbots
+D) All of the above
+ANSWER: D
+Which of the following is a stemming algorithm?
+A) Porter Stemmer
+B) BERT
+C) Word2Vec
+D) GPT
+ANSWER: A
+Which of the following is a stopword in English?
+A) Data
+B) Computer
+C) The
+D) Python
+ANSWER: C
+Which of the following is an application of sentiment analysis?
+A) Spam email detection
+B) Analyzing customer reviews
+C) Speech recognition
+D) Image classification
+ANSWER: B
+Which of the following is NOT a common text preprocessing step?
+A) Tokenization
+B) Stopword removal
+C) Data visualization
+D) Lemmatization
+ANSWER: C
+Which of the following is NOT a word embedding model?
+A) Word2Vec
+B) GloVe
+C) FastText
+D) Decision Tree
+ANSWER: D
+Which technique is used in Word2Vec to train word embeddings?
+A) Skip-gram
+B) Decision Trees
+C) Random Forest
+D) k-Means Clustering
+ANSWER: A
+Word embeddings help in:
+A) Converting words into numerical vectors
+B) Tokenizing text into sentences
+C) Removing punctuation from text
+D) Performing sentiment analysis
+ANSWER: A
+Compared to Hadoop MapReduce, Apache Spark is:
+A) Faster due to in-memory computation
+B) Slower and inefficient
+C) Used only for batch processing
+D) Less scalable
+ANSWER: A
+Hadoop is primarily used for:
+A) Cloud computing
+B) Distributed storage and processing of large datasets
+C) Real-time analytics only
+D) Running SQL queries on structured data
+ANSWER: B
+Hadoop is primarily written in which programming language?
+A) Python
+B) Java
+C) R
+D) C++
+ANSWER: B
+PySpark uses which programming language?
+A) Python
+B) Java
+C) Scala
+D) C++
+ANSWER: A
+What are the 4 Vs of Big Data?
+A) Volume, Velocity, Variety, Veracity
+B) Virtualization, Volume, Veracity, Value
+C) Value, Variety, Visualization, Verification
+D) Versioning, Velocity, Value, Variance
+ANSWER: A
+What does YARN stand for in Hadoop?
+A) Yet Another Resource Negotiator
+B) Yellow Advanced Relational Network
+C) Your Automated Resource Node
+D) Yet Another Random Node
+ANSWER: A
+What is a Spark Session?
+A) An entry point for working with Spark applications
+B) A Python function for connecting to HDFS
+C) A MapReduce function in Spark
+D) A real-time monitoring tool
+ANSWER: A
+What is Apache Kafka used for?
+A) Streaming data in real-time
+B) Running SQL queries
+C) Processing batch jobs
+D) Managing NoSQL databases
+ANSWER: A
+What is Apache Spark mainly used for?
+A) Processing small datasets
+B) Real-time and batch processing
+C) Only batch processing
+D) Data visualization
+ANSWER: B
+What is PySpark?
+A) A Python-based database
+B) A Python API for Apache Spark
+C) A cloud-based data warehouse
+D) A programming language
+ANSWER: B
+What is real-time data processing?
+A) Processing data as it arrives
+B) Processing only stored data
+C) Processing data with MapReduce
+D) Processing batch data in Hadoop
+ANSWER: A
+What is Spark SQL used for?
+A) Running SQL-like queries on structured data
+B) Processing images in Spark
+C) Storing JSON data in Hadoop
+D) Running MapReduce jobs
+ANSWER: A
+What is the core storage component of Hadoop?
+A) Hadoop File Storage (HFS)
+B) NoSQL Database
+C) Hadoop Distributed File System (HDFS)
+D) BigTable
+ANSWER: C
+What is the key advantage of RDDs in Spark?
+A) They enable fault tolerance and parallel processing
+B) They store data in relational tables
+C) They are used for deep learning applications
+D) They reduce the need for cloud storage
+ANSWER: A
+What is the main challenge of big data processing?
+A) Managing large volumes of data efficiently
+B) Storing small amounts of data
+C) Limiting data access to one user
+D) Processing only numerical data
+ANSWER: A
+What is the primary advantage of using big data analytics?
+A) Ability to process large and complex data efficiently
+B) Reduced need for cloud storage
+C) Lower memory consumption
+D) Data compression
+ANSWER: A
+What is the role of a data pipeline in big data processing?
+A) To move and transform data from one system to another
+B) To create relational databases
+C) To analyze small datasets
+D) To replace data storage
+ANSWER: A
+What type of data structure is commonly used in Spark for distributed computing?
+A) DataFrame
+B) RDD (Resilient Distributed Dataset)
+C) SQL Table
+D) NoSQL Document
+ANSWER: B
+Which big data technology is best suited for fraud detection in banking?
+A) Spark Streaming
+B) Hadoop MapReduce
+C) MongoDB
+D) NoSQL databases
+ANSWER: A
+Which cloud-based platform is commonly used for big data processing?
+A) Amazon AWS
+B) Microsoft Excel
+C) SQLite
+D) Windows Notepad
+ANSWER: A
+Which component of Hadoop is responsible for parallel data processing?
+A) HDFS
+B) MapReduce
+C) YARN
+D) Hive
+ANSWER: B
+Which industry benefits the most from big data analytics?
+A) Healthcare
+B) Finance
+C) Retail
+D) All of the above
+ANSWER: D
+Which library in Spark is used for machine learning?
+A) SparkML
+B) TensorFlow
+C) HadoopML
+D) SparkAI
+ANSWER: A
+Which of the following best describes lazy evaluation in Spark?
+A) Computation is delayed until an action is performed
+B) Computation occurs immediately after a transformation
+C) Spark does not support transformations
+D) Spark only processes real-time data
+ANSWER: A
+Which of the following is an example of a big data application?
+A) Personalized recommendations on Netflix
+B) Text editing in Microsoft Word
+C) Simple arithmetic calculations
+D) Sending emails
+ANSWER: A
+Which of the following is NOT a characteristic of big data?
+A) High processing speed
+B) Small storage requirements
+C) Large volume
+D) High data variety
+ANSWER: B
+Which of the following is NOT an Apache Spark component?
+A) Spark SQL
+B) Spark Streaming
+C) Spark MLib
+D) SparkDB
+ANSWER: D
+Which of the following statements about Spark DataFrames is TRUE?
+A) DataFrames are immutable
+B) DataFrames do not support SQL queries
+C) DataFrames cannot handle structured data
+D) DataFrames do not support distributed computing
+ANSWER: A
+Which of the following tools is used for real-time big data processing?
+A) Apache Flink
+B) Hadoop MapReduce
+C) MySQL
+D) PostgreSQL
+ANSWER: A
+Which transformation operation is used to filter out specific data from an RDD?
+A) filter()
+B) map()
+C) reduce()
+D) collect()
+ANSWER: A
