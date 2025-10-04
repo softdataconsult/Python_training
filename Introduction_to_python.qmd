@@ -1,0 +1,161 @@
+---
+title: "**Introduction To Python**"
+author: "Facilitator: Dr Isaac Oluwaseyi Ajao"
+date: "2025-10-04"
+format: 
+  beamer:
+    theme: "Warsaw"
+execute:
+  echo: true
+---
+
+## What You Will Learn
+
+1.  **What is Python?**
+    Simple language, powerful tool.
+
+2.  **Why Python for Data?**
+    The main reason we use it.
+
+3.  **Core Concepts**
+    Variables, Functions, and Libraries.
+
+4.  **Setup: Anaconda** 💻
+    The easiest way to get started.
+
+-----
+
+## What is Python? 🐍
+
+**Concept:**
+Python is a **high-level, interpreted programming language**.
+
+  * **High-Level:** It reads almost like English, making it easy to learn and use. You don't need to worry about complex computer memory management.
+  * **Interpreted:** You write a line of code, and the computer executes it immediately. This is great for fast, interactive data analysis.
+  * **Simple Syntax:** Python forces you to use indentation, which makes the code clean, readable, and easy to collaborate on.
+
+**Analogy:**
+If programming were like building a house:
+
+  * **Low-level languages** (like C++) are the raw materials (wood, nails). They are fast but hard to assemble.
+  * **Python** is a pre-fabricated kit where all the pieces snap together easily.
+
+-----
+
+## Why the Name Python? 💡
+
+The name **Python** has nothing to do with snakes\! 🐍🚫
+
+The language's creator, **Guido van Rossum**, was a huge fan of the classic BBC comedy sketch show: **"Monty Python's Flying Circus."**
+
+He chose the name because:
+
+1.  He was reading the scripts for the show while developing the language.
+2.  He wanted a name that was **short, unique, and slightly mysterious**, and importantly, had no direct relationship to the serious, often dry world of computer programming.
+
+This lighthearted origin is why you sometimes find quirky, funny examples and references (like "spam" and "eggs") in Python's official documentation.
+
+---
+
+## Why Python for Data? 📊
+
+Python is used everywhere, but its popularity in data analysis stems from two key factors:
+
+1.  **Readability:** Data projects often involve non-developers (like analysts or business experts). Python's simple code allows them to understand the logic easily.
+
+2.  **The Ecosystem (Libraries):** It has world-class, free, specialized tools built by the community:
+
+      * **Pandas:** For cleaning and structuring data (like an ultra-powerful Excel).
+      * **NumPy:** For lightning-fast math and calculations on large datasets.
+      * **Jupyter:** For writing and sharing code alongside charts and explanations.
+
+-----
+
+## Core Concepts: The Building Blocks
+
+### 1\. Variables
+
+**Concept:** A **variable** is a named container for holding a value (a number, a word, or a whole dataset).
+
+$$\text{box\_name} = \text{data\_value}$$
+
+**Example:**
+
+```python
+sales_data = 55000
+greeting = "Hello Class"
+```
+
+### 2\. Functions
+
+**Concept:** A **function** is a block of reusable code that performs a specific task. They take an input, process it, and return an output.
+
+**Example:**
+The `print()` function takes input and displays it to the screen.
+
+```python
+print(sales_data)
+```
+
+-----
+
+## Getting Started: Anaconda ⬇️
+
+For data analysis, installing **Python** alone isn't enough; you need the powerful data libraries (Pandas, NumPy, etc.) and a good work environment.
+
+**Anaconda** solves this problem by providing a single installer that gives you:
+
+  * The **Python** language core.
+  * **100+ Data Science Libraries** (including Pandas and NumPy).
+  * **Jupyter Notebook:** An interactive environment where you can write code, see results, and view charts all in one document, which is ideal for data exploration.
+
+**Download Link (Highly Recommended for Data):**
+[https://www.anaconda.com/download](https://www.anaconda.com/download)
+
+-----
+
+## Quick Recap
+
+  * Python is **easy-to-read** and executes code immediately (interpreted).
+  * Its strength is its **ecosystem** of specialized libraries for data.
+  * The best way to start is by installing **Anaconda**, which includes Python, all the key data libraries, and the **Jupyter Notebook**.
+
+👉 Next: Installing Anaconda and launching your first Jupyter Notebook.
+
+-----
+
+## Stay Connected 🌐
+
+  * Download Anaconda: [https://www.anaconda.com/download](https://www.anaconda.com/download)
+  * Official Python Website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+
+Ask questions, share your progress, and get help from the community\!
+
+-----
+
+## Stay Connected 🌐
+
+ **SoftData Consult – Training & Data Science Courses**  
+For trainings on R, Python, Stata, Matlab, SPSS, and Data Science  
+ 
+* Visit Softdata Consult
+
+[https://softdataconsult.com/](https://softdataconsult.com/) 
+
+* Github
+
+[https://softdataconsult.github.io/](https://softdataconsult.github.io/) 
+
+* Email 
+
+[softdataconsult@gmail.com](mailto:softdataconsult@gmail.com)
+
+
+---
+
+## Appreciation 🙏
+
+:::{.center}
+![](images/thanks.png)
+:::

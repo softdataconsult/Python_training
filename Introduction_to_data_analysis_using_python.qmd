@@ -1,0 +1,168 @@
+---
+title: "**Python for Data Analysis: The Fundamentals**"
+subtitle: "A Beginner's Guide to the Core Libraries"
+author: "Facilitator: Dr Isaac Oluwaseyi Ajao"
+date: "2025-10-04"
+format: 
+  beamer:
+    theme: "Warsaw"
+execute:
+  echo: true
+---
+
+
+## What You Will Learn
+
+1.  **NumPy: Numerical Computing**
+    The power behind arrays and vectors.
+
+2.  **Pandas: Data Structure & Cleaning**
+    The key to structured data (DataFrames).
+
+3.  **Matplotlib: Basic Visualization**
+    Creating informative charts and graphs.
+
+4.  **The Python Data Workflow**
+    From raw data to initial insights.
+
+-----
+
+## NumPy: Numerical Computing 🔢
+
+**Concept:**
+**NumPy** (Numerical Python) is the foundation of scientific computing in Python. It introduces the powerful **`ndarray`** (N-dimensional array) object, which stores data efficiently and enables fast operations.
+
+$$\text{Vector Operations } (\times, \div, +)$$
+
+**Why use NumPy over basic Python lists?**
+
+  * **Speed:** Operations are performed much faster due to efficient memory storage.
+  * **Vectorization:** Enables operations on entire arrays without slow Python loops.
+
+----
+
+## Example:
+Calculating the mean, standard deviation ($\sigma$), or performing element-wise multiplication on large datasets.
+
+```python
+import numpy as np
+data = np.array([10, 15, 20, 25, 30])
+print(data.mean())
+```
+
+-----
+
+## Pandas: Data Structure & Cleaning 🧼
+**Concept:**
+**Pandas** is the essential library for data manipulation and analysis. It introduces two core structures:
+
+1.  **Series:** A 1-dimensional labeled array (like a single column in a spreadsheet).
+2.  **DataFrame:** A 2-dimensional labeled data structure with columns of potentially different types (like an entire spreadsheet or SQL table).
+
+**The Data Cleaning Process:**
+
+  * Loading data from CSV/Excel (`pd.read_csv`).
+  * Inspecting data types and summary statistics (`.info()`, `.describe()`).
+  * Handling missing values (`.fillna()`, `.dropna()`).
+
+----
+
+## Example:
+Loading a dataset and checking for missing values.
+
+```python
+import pandas as pd
+df = pd.read_csv('sales_data.csv')
+print(df.head())
+print(df.isnull().sum())
+```
+
+-----
+
+## Matplotlib: Basic Visualization 📈
+
+**Concept:**
+**Matplotlib** is the foundational plotting library for Python. It provides the necessary tools to create static, animated, and interactive visualizations. Learning Matplotlib is key, as most other visualization libraries are built upon it.
+
+$$\text{Data} \rightarrow \text{Figure} \rightarrow \text{Axes} \rightarrow \text{Plot Element}$$
+
+**Essential Plot Types:**
+
+  * **Scatter Plot:** Shows the relationship between two numerical variables.
+  * **Histogram:** Shows the distribution of a single variable.
+  * **Bar Chart:** Compares categories.
+  * **Line Plot:** Shows trends over time.
+  
+---
+
+## Example:
+Visualizing a trend using a line plot.
+
+```python
+import matplotlib.pyplot as plt
+plt.plot(df['Month'], df['Sales'])
+plt.title('Monthly Sales Trend')
+plt.show()
+```
+
+-----
+
+## The Python Data Workflow
+
+This course focuses on the first three critical steps of any Data Analysis project:
+
+1.  **Ingest** 📥: Get data into a **Pandas DataFrame**.
+2.  **Clean & Transform** 🧹: Prepare the data for analysis (handling errors, structuring data types).
+3.  **Explore** 🔍: Use descriptive statistics (Pandas) and visualization (Matplotlib/Seaborn) to understand patterns and anomalies.
+
+**Advanced Steps (Future Learning):**
+
+4.  **Model** 🧠: Use libraries like **Scikit-learn** to build predictive models.
+5.  **Report** 🗣️: Communicate findings (often using advanced tools like **Plotly** or creating dashboards).
+
+-----
+
+## Quick Recap
+
+  * **NumPy** is for fast, array-based numerical operations.
+  * **Pandas** is for turning raw data into structured **DataFrames** (cleaning/transformation).
+  * **Matplotlib** is for creating foundational data **Visualizations**.
+  * These three form the fundamental **Python Data Stack** for analysis.
+
+👉 Next: Setting up the Python environment\!
+
+-----
+
+## Resources 📂
+* Download Python latest version here 
+ [https://www.python.org/downloads/](https://www.python.org/downloads/)
+* On this page, you'll find the latest stable release for your operating system (Windows, macOS, Linux/UNIX, etc.). The current latest stable release is Python 3.13.7.
+* Watch how to install Anaconda 
+[https://www.youtube.com/watch?v=E4S0SRjRrmI](https://www.youtube.com/watch?v=E4S0SRjRrmI)
+
+-----
+
+## Stay Connected 🌐
+
+ **SoftData Consult – Training & Data Science Courses**  
+For trainings on R, Python, Stata, Matlab, SPSS, and Data Science  
+ 
+* Visit Softdata Consult
+
+[https://softdataconsult.com/](https://softdataconsult.com/) 
+
+* Github
+
+[https://softdataconsult.github.io/](https://softdataconsult.github.io/) 
+
+* Email 
+
+[softdataconsult@gmail.com](mailto:softdataconsult@gmail.com)
+
+-----
+
+## Appreciation 🙏
+
+:::{.center}
+![](images/thanks.png)
+:::
